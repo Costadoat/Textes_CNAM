@@ -160,6 +160,33 @@ keepaspectratio]{../../headers/img/fond4}%
 
 \begin{document}
 
+\pagestyle{empty}
+
+\vspace*{-3\baselineskip}
+
+\AddToShipoutPicture*{\BackgroundPic}
+
+\begin{tabular}{m{.6\linewidth} m{.3\linewidth}}
+Séquence : \sequence &  \multirow{3}{*}{\hspace{1cm}\includegraphics[height=1.5cm]{../../headers/img/logo}} \\
+Document : \type\num \\
+ \auteurun \\
+ \institute
+\end{tabular}
+
+\vspace{1cm}
+
+\ifdef{\prive}{\begin{center}\colorbox{danger}{\Huge{Avec Correction}}\end{center}}{}
+
+\vspace{1cm}
+
+\begin{center}\huge{\nom}\end{center}
+
+\vspace{14cm}
+
+\begin{center} \includegraphics[height=4cm]{img/qrcode}\end{center}
+
+\newpage
+
 \AddToShipoutPicture{\BackgroundPicdeux}
 
 \pagestyle{fancy}

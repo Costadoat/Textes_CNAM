@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.22)  11 JAN 2017 23:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.6.9)  7 OCT 2017 09:55
 entering extended mode
 **\def\prive{}\input{TD01.tex}
 (TD01.tex (intro.tex) (../../headers/tdheaders.tex
@@ -1154,7 +1154,132 @@ erthousand on input line 161.
 LaTeX Info: Redefining \ohm on input line 161.
 Package gensymb Info: Using \textohm for \ohm on input line 161.
 Package gensymb Info: Using \textmu for \micro on input line 161.
-) (01-TD01.tex
+LaTeX Font Info:    Try loading font information for OT1+mdbch on input line 16
+9.
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\ot1mdbch.fd"
+File: ot1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OT1/mdbch.
+)
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 169.
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 169.
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 169.
+LaTeX Font Info:    Try loading font information for OML+mdbch on input line 16
+9.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\omlmdbch.fd"
+File: omlmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdbch.
+)
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 11.52008pt on input line 169.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 7.68005pt on input line 169.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 5.76004pt on input line 169.
+LaTeX Font Info:    Try loading font information for OMS+mdbch on input line 16
+9.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\omsmdbch.fd"
+File: omsmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdbch.
+)
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 169.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 169.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 169.
+LaTeX Font Info:    Try loading font information for OMX+mdbch on input line 16
+9.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\omxmdbch.fd"
+File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
+)
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 169.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 169.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 169.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 169.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 169.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 169.
+LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 16
+9.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\mdamdbch.fd"
+File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
+)
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 169.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 169.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 169.
+LaTeX Font Info:    Try loading font information for MDB+mdbch on input line 16
+9.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\mdbmdbch.fd"
+File: mdbmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdbch.
+)
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 169.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 169.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 169.
+LaTeX Font Info:    Try loading font information for U+msa on input line 169.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 169.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for TS1+phv on input line 169.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1phv.fd"
+File: ts1phv.fd 2001/06/04 scalable font definitions for TS1/phv.
+)
+<../../headers/img/logo.png, id=50, 572.1375pt x 147.55125pt>
+File: ../../headers/img/logo.png Graphic file (type png)
+
+<use ../../headers/img/logo.png>
+Package pdftex.def Info: ../../headers/img/logo.png used on input line 170.
+(pdftex.def)             Requested size: 165.48784pt x 42.67912pt.
+
+Overfull \vbox (3.5292pt too high) detected at line 170
+ []
+
+
+Overfull \hbox (49.63911pt too wide) in paragraph at lines 170--171
+[]|[]| 
+ []
+
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 21.96893pt on input line 178.
+<img/qrcode.png, id=51, 396.0pt x 396.0pt>
+File: img/qrcode.png Graphic file (type png)
+ <use img/qrcode.png>
+Package pdftex.def Info: img/qrcode.png used on input line 186.
+(pdftex.def)             Requested size: 113.80983pt x 113.81102pt.
+
+<../../headers/img/fond3.jpg, id=53, 246.6816pt x 185.0112pt>
+File: ../../headers/img/fond3.jpg Graphic file (type jpg)
+
+<use ../../headers/img/fond3.jpg>
+Package pdftex.def Info: ../../headers/img/fond3.jpg used on input line 188.
+(pdftex.def)             Requested size: 597.64128pt x 448.23097pt.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <../../headers/img/fond3.j
+pg> <../../headers/img/logo.png> <./img/qrcode.png>]) (01-TD01.tex
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 15.25815pt on input line 1.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
@@ -1163,7 +1288,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 12.71512pt on input line 3.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 12.71512pt on input line 3.
- <img/cabinet.jpg, id=54, 1541.76pt x 1644.1425pt>
+ <img/cabinet.jpg, id=62, 1541.76pt x 1644.1425pt>
 File: img/cabinet.jpg Graphic file (type jpg)
 
 <use img/cabinet.jpg>
@@ -1174,99 +1299,7 @@ Package pdftex.def Info: img/cabinet.jpg used on input line 8.
 LaTeX Font Warning: Font shape `T1/phv/m/fsc' undefined
 (Font)              using `T1/phv/m/n' instead on input line 9.
 
-LaTeX Font Info:    Try loading font information for OT1+mdbch on input line 12
-.
-("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\ot1mdbch.fd"
-File: ot1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OT1/mdbch.
-)
-LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 12.
-LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 12.
-LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 12.
-LaTeX Font Info:    Try loading font information for OML+mdbch on input line 12
-.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\omlmdbch.fd"
-File: omlmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdbch.
-)
-LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 11.52008pt on input line 12.
-LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 7.68005pt on input line 12.
-LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 5.76004pt on input line 12.
-LaTeX Font Info:    Try loading font information for OMS+mdbch on input line 12
-.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\omsmdbch.fd"
-File: omsmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdbch.
-)
-LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 12.
-LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 12.
-LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 12.
-LaTeX Font Info:    Try loading font information for OMX+mdbch on input line 12
-.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\omxmdbch.fd"
-File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
-)
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 12.
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 12.
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 12.
-LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 12.
-LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 12.
-LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 12.
-LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 12
-.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\mdamdbch.fd"
-File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
-)
-LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 12.
-LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 12.
-LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 12.
-LaTeX Font Info:    Try loading font information for MDB+mdbch on input line 12
-.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\mdbmdbch.fd"
-File: mdbmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdbch.
-)
-LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 12.
-LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 12.
-LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 12.
-LaTeX Font Info:    Try loading font information for U+msa on input line 12.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 12.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Try loading font information for TS1+phv on input line 12.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1phv.fd"
-File: ts1phv.fd 2001/06/04 scalable font definitions for TS1/phv.
-)
-<img/detail_chaise.png, id=55, 2055.68pt x 1541.76pt>
+<img/detail_chaise.png, id=63, 2055.68pt x 1541.76pt>
 File: img/detail_chaise.png Graphic file (type png)
 
 <use img/detail_chaise.png>
@@ -1274,43 +1307,38 @@ Package pdftex.def Info: img/detail_chaise.png used on input line 30.
 (pdftex.def)             Requested size: 216.44853pt x 162.3248pt.
 LaTeX Font Info:    Font shape `T1/phv/m/fsc' will be
 (Font)              scaled to size 10.59595pt on input line 31.
-
-<../../headers/img/logo.png, id=56, 572.1375pt x 147.55125pt>
 File: ../../headers/img/logo.png Graphic file (type png)
-
-<use ../../headers/img/logo.png>
+ <use ../../headers/img/logo.png>
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 37.
 (pdftex.def)             Requested size: 56.9055pt x 14.67493pt.
 
-<../../headers/img/fond4.pdf, id=57, 542.025pt x 782.925pt>
+<../../headers/img/fond4.pdf, id=64, 542.025pt x 782.925pt>
 File: ../../headers/img/fond4.pdf Graphic file (type pdf)
 
 <use ../../headers/img/fond4.pdf>
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 37.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
- [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
-
- <../../headers/img/fond4.pdf> <../../headers/img/logo.png> <./img/cabinet.jpg>
- <./img/detail_chaise.png (PNG copy)>]
-<img/face.png, id=75, 1210.5225pt x 967.615pt>
+ [2 <../../headers/img/fond4.pdf> <./img/cabinet.jpg> <./img/detail_chaise.png 
+(PNG copy)>]
+<img/face.png, id=79, 1210.5225pt x 967.615pt>
 File: img/face.png Graphic file (type png)
  <use img/face.png>
 Package pdftex.def Info: img/face.png used on input line 58.
 (pdftex.def)             Requested size: 481.0pt x 384.48488pt.
 
-<img/pos_haute.png, id=76, 913.4125pt x 889.3225pt>
+<img/pos_haute.png, id=80, 913.4125pt x 889.3225pt>
 File: img/pos_haute.png Graphic file (type png)
  <use img/pos_haute.png>
 Package pdftex.def Info: img/pos_haute.png used on input line 67.
 (pdftex.def)             Requested size: 264.55147pt x 257.57123pt.
 
-<img/perspective.png, id=77, 2741.24126pt x 1996.45876pt>
+<img/perspective.png, id=81, 2741.24126pt x 1996.45876pt>
 File: img/perspective.png Graphic file (type png)
 
 <use img/perspective.png>
 Package pdftex.def Info: img/perspective.png used on input line 75.
 (pdftex.def)             Requested size: 192.39706pt x 140.10149pt.
- <img/pos_basse.png, id=79, 927.465pt x 530.98375pt>
+ <img/pos_basse.png, id=82, 927.465pt x 530.98375pt>
 File: img/pos_basse.png Graphic file (type png)
 
 <use img/pos_basse.png>
@@ -1327,8 +1355,8 @@ File: ../../headers/img/fond4.pdf Graphic file (type pdf)
 <use ../../headers/img/fond4.pdf>
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 87.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
- [2 <./img/face.png>]) (01-TD02.tex
-<img/annexe1.pdf, id=87, 509.02742pt x 700.04805pt>
+ [3 <./img/face.png>]) (01-TD02.tex
+<img/annexe1.pdf, id=90, 509.02742pt x 700.04805pt>
 File: img/annexe1.pdf Graphic file (type pdf)
  <use img/annexe1.pdf>
 Package pdftex.def Info: img/annexe1.pdf used on input line 10.
@@ -1342,8 +1370,8 @@ File: ../../headers/img/fond4.pdf Graphic file (type pdf)
  <use ../../headers/img/fond4.pdf>
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 33.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
- [3 <./img/pos_haute.png> <./img/perspective.png> <./img/pos_basse.png>]
-<img/cin_EM.pdf, id=101, 546.01672pt x 685.82224pt>
+ [4 <./img/pos_haute.png> <./img/perspective.png> <./img/pos_basse.png>]
+<img/cin_EM.pdf, id=104, 546.01672pt x 685.82224pt>
 File: img/cin_EM.pdf Graphic file (type pdf)
  <use img/cin_EM.pdf>
 Package pdftex.def Info: img/cin_EM.pdf used on input line 39.
@@ -1357,7 +1385,7 @@ File: ../../headers/img/fond4.pdf Graphic file (type pdf)
  <use ../../headers/img/fond4.pdf>
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 57.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
- [4 <./img/annexe1.pdf>]
+ [5 <./img/annexe1.pdf>]
 File: ../../headers/img/logo.png Graphic file (type png)
  <use ../../headers/img/logo.png>
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 57.
@@ -1367,20 +1395,20 @@ File: ../../headers/img/fond4.pdf Graphic file (type pdf)
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 57.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
 
-[5 <./img/cin_EM.pdf>] <img/photo_camion.jpg, id=136, 967.615pt x 752.8125pt>
+[6 <./img/cin_EM.pdf>] <img/photo_camion.jpg, id=139, 967.615pt x 752.8125pt>
 File: img/photo_camion.jpg Graphic file (type jpg)
 
 <use img/photo_camion.jpg>
 Package pdftex.def Info: img/photo_camion.jpg used on input line 70.
 (pdftex.def)             Requested size: 153.91823pt x 119.74026pt.
 
-<img/epas_hyp.png, id=138, 667.49374pt x 767.86874pt>
+<img/epas_hyp.png, id=141, 667.49374pt x 767.86874pt>
 File: img/epas_hyp.png Graphic file (type png)
  <use img/epas_hyp.png>
 Package pdftex.def Info: img/epas_hyp.png used on input line 81.
 (pdftex.def)             Requested size: 192.39706pt x 221.32881pt.
 )
-(01-TD03.tex <img/grue0.png, id=139, 508.90125pt x 608.2725pt>
+(01-TD03.tex <img/grue0.png, id=142, 508.90125pt x 608.2725pt>
 File: img/grue0.png Graphic file (type png)
 
 <use img/grue0.png>
@@ -1395,8 +1423,8 @@ File: ../../headers/img/fond4.pdf Graphic file (type pdf)
 <use ../../headers/img/fond4.pdf>
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 16.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
- [6 <./img/photo_camion.jpg> <./img/epas_hyp.png (PNG copy)>] <img/grue1.png, i
-d=151, 349.305pt x 304.13625pt>
+ [7 <./img/photo_camion.jpg> <./img/epas_hyp.png (PNG copy)>] <img/grue1.png, i
+d=155, 349.305pt x 304.13625pt>
 File: img/grue1.png Graphic file (type png)
 
 <use img/grue1.png>
@@ -1411,8 +1439,8 @@ File: ../../headers/img/fond4.pdf Graphic file (type pdf)
 <use ../../headers/img/fond4.pdf>
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 66.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
- [7 <./img/grue0.png> <./img/grue1.png>]
-<img/grue2.png, id=161, 828.84656pt x 539.76656pt>
+ [8 <./img/grue0.png> <./img/grue1.png>]
+<img/grue2.png, id=164, 828.84656pt x 539.76656pt>
 File: img/grue2.png Graphic file (type png)
  <use img/grue2.png>
 Package pdftex.def Info: img/grue2.png used on input line 77.
@@ -1426,19 +1454,19 @@ File: ../../headers/img/fond4.pdf Graphic file (type pdf)
  <use ../../headers/img/fond4.pdf>
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 98.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
- [8 <./img/grue2.png>] <img/bidon.png, id=178, 307.1475pt x 307.1475pt>
+ [9 <./img/grue2.png>] <img/bidon.png, id=181, 307.1475pt x 307.1475pt>
 File: img/bidon.png Graphic file (type png)
  <use img/bidon.png>
 Package pdftex.def Info: img/bidon.png used on input line 130.
 (pdftex.def)             Requested size: 134.67735pt x 134.67664pt.
 
-<img/poste.png, id=181, 858.20625pt x 719.68875pt>
+<img/poste.png, id=184, 858.20625pt x 719.68875pt>
 File: img/poste.png Graphic file (type png)
  <use img/poste.png>
 Package pdftex.def Info: img/poste.png used on input line 148.
 (pdftex.def)             Requested size: 185.18521pt x 155.29012pt.
 
-<img/bidons.png, id=182, 539.01375pt x 392.96812pt>
+<img/bidons.png, id=185, 539.01375pt x 392.96812pt>
 File: img/bidons.png Graphic file (type png)
  <use img/bidons.png>
 Package pdftex.def Info: img/bidons.png used on input line 154.
@@ -1455,7 +1483,7 @@ File: ../../headers/img/fond4.pdf Graphic file (type pdf)
  <use ../../headers/img/fond4.pdf>
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 192.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
- [9 <./img/bidon.png>] <img/cinematique.png, id=193, 686.565pt x 599.99156pt>
+ [10 <./img/bidon.png>] <img/cinematique.png, id=196, 686.565pt x 599.99156pt>
 File: img/cinematique.png Graphic file (type png)
 
 <use img/cinematique.png>
@@ -1470,14 +1498,14 @@ File: ../../headers/img/fond4.pdf Graphic file (type pdf)
 <use ../../headers/img/fond4.pdf>
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 219.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
- [10 <./img/poste.png> <./img/bidons.png> <./img/cinematique.png>] <img/6axes.p
-ng, id=208, 504.38437pt x 472.76625pt>
+ [11 <./img/poste.png> <./img/bidons.png> <./img/cinematique.png>] <img/6axes.p
+ng, id=211, 504.38437pt x 472.76625pt>
 File: img/6axes.png Graphic file (type png)
 
 <use img/6axes.png>
 Package pdftex.def Info: img/6axes.png used on input line 248.
 (pdftex.def)             Requested size: 101.01279pt x 94.67421pt.
- <img/CCP.pdf, id=209, 597.45204pt x 845.1575pt>
+ <img/CCP.pdf, id=212, 597.45204pt x 845.1575pt>
 File: img/CCP.pdf Graphic file (type pdf)
 
 <use img/CCP.pdf>
@@ -1492,7 +1520,7 @@ File: img/CCP.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/CCP.pdf used on input line 254.
 (pdftex.def)             Requested size: 597.45058pt x 845.15544pt.
 
-<img/CCP.pdf, id=213, page=16, 597.23125pt x 845.1575pt>
+<img/CCP.pdf, id=216, page=16, 597.23125pt x 845.1575pt>
 File: img/CCP.pdf Graphic file (type pdf)
 
 <use img/CCP.pdf, page 16>
@@ -1511,7 +1539,7 @@ File: ../../headers/img/fond4.pdf Graphic file (type pdf)
  <use ../../headers/img/fond4.pdf>
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 254.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
- [11 <./img/6axes.png>]
+ [12 <./img/6axes.png>]
 File: img/CCP.pdf Graphic file (type pdf)
  <use img/CCP.pdf, page 16>
 Package pdftex.def Info: img/CCP.pdf, page16 used on input line 254.
@@ -1529,7 +1557,7 @@ File: img/CCP.pdf Graphic file (type pdf)
  <use img/CCP.pdf, page 16>
 Package pdftex.def Info: img/CCP.pdf, page16 used on input line 254.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [12 <./img/CCP.pdf>] <img/CCP.pdf, id=279, page=18, 597.23125pt x 845.1575pt>
+ [13 <./img/CCP.pdf>] <img/CCP.pdf, id=283, page=18, 597.23125pt x 845.1575pt>
 File: img/CCP.pdf Graphic file (type pdf)
 
 <use img/CCP.pdf, page 18>
@@ -1548,7 +1576,7 @@ File: img/CCP.pdf Graphic file (type pdf)
  <use img/CCP.pdf, page 18>
 Package pdftex.def Info: img/CCP.pdf, page18 used on input line 254.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [13 <./img/CCP.pdf>] <img/CCP.pdf, id=294, page=19, 597.23125pt x 845.1575pt>
+ [14 <./img/CCP.pdf>] <img/CCP.pdf, id=297, page=19, 597.23125pt x 845.1575pt>
 File: img/CCP.pdf Graphic file (type pdf)
 
 <use img/CCP.pdf, page 19>
@@ -1567,11 +1595,11 @@ File: img/CCP.pdf Graphic file (type pdf)
  <use img/CCP.pdf, page 19>
 Package pdftex.def Info: img/CCP.pdf, page19 used on input line 254.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [14 <./img/CCP.pdf>]
+ [15 <./img/CCP.pdf>]
 
 pdfTeX warning: pdflatex (file ./img/Image1.pdf): PDF inclusion: found PDF vers
 ion <1.6>, but at most version <1.5> allowed
-<img/Image1.pdf, id=303, 458.0894pt x 490.81007pt>
+<img/Image1.pdf, id=306, 458.0894pt x 490.81007pt>
 File: img/Image1.pdf Graphic file (type pdf)
  <use img/Image1.pdf>
 Package pdftex.def Info: img/Image1.pdf used on input line 269.
@@ -1580,7 +1608,7 @@ Package pdftex.def Info: img/Image1.pdf used on input line 269.
 
 pdfTeX warning: pdflatex (file ./img/Image2.pdf): PDF inclusion: found PDF vers
 ion <1.6>, but at most version <1.5> allowed
-<img/Image2.pdf, id=304, 722.7pt x 411.14201pt>
+<img/Image2.pdf, id=307, 722.7pt x 411.14201pt>
 File: img/Image2.pdf Graphic file (type pdf)
  <use img/Image2.pdf>
 Package pdftex.def Info: img/Image2.pdf used on input line 284.
@@ -1589,7 +1617,7 @@ Package pdftex.def Info: img/Image2.pdf used on input line 284.
 
 pdfTeX warning: pdflatex (file ./img/Image3.pdf): PDF inclusion: found PDF vers
 ion <1.6>, but at most version <1.5> allowed
-<img/Image3.pdf, id=305, 722.7pt x 542.025pt>
+<img/Image3.pdf, id=308, 722.7pt x 542.025pt>
 File: img/Image3.pdf Graphic file (type pdf)
  <use img/Image3.pdf>
 Package pdftex.def Info: img/Image3.pdf used on input line 293.
@@ -1598,7 +1626,7 @@ Package pdftex.def Info: img/Image3.pdf used on input line 293.
 
 pdfTeX warning: pdflatex (file ./img/Image4.pdf): PDF inclusion: found PDF vers
 ion <1.6>, but at most version <1.5> allowed
-<img/Image4.pdf, id=306, 722.7pt x 465.20259pt>
+<img/Image4.pdf, id=309, 722.7pt x 465.20259pt>
 File: img/Image4.pdf Graphic file (type pdf)
  <use img/Image4.pdf>
 Package pdftex.def Info: img/Image4.pdf used on input line 299.
@@ -1615,7 +1643,7 @@ File: ../../headers/img/fond4.pdf Graphic file (type pdf)
  <use ../../headers/img/fond4.pdf>
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 309.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
- [15 <./img/Image1.pdf> <./img/Image2.pdf
+ [16 <./img/Image1.pdf> <./img/Image2.pdf
 
 pdfTeX warning: pdflatex (file ./img/Image2.pdf): PDF inclusion: multiple pdfs 
 with page group included in a single page
@@ -1628,11 +1656,11 @@ File: ../../headers/img/fond4.pdf Graphic file (type pdf)
  <use ../../headers/img/fond4.pdf>
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 342.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
- [16 <./img/Image3.pdf> <./img/Image4.pdf
+ [17 <./img/Image3.pdf> <./img/Image4.pdf
 
 pdfTeX warning: pdflatex (file ./img/Image4.pdf): PDF inclusion: multiple pdfs 
 with page group included in a single page
->] <img/cin_graph.png, id=382, 812.28468pt x 595.47469pt>
+>] <img/cin_graph.png, id=385, 812.28468pt x 595.47469pt>
 File: img/cin_graph.png Graphic file (type png)
 
 <use img/cin_graph.png>
@@ -1650,7 +1678,7 @@ File: ../../headers/img/fond4.pdf Graphic file (type pdf)
  <use ../../headers/img/fond4.pdf>
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 384.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
- [17]
+ [18]
 File: ../../headers/img/logo.png Graphic file (type png)
 
 <use ../../headers/img/logo.png>
@@ -1660,7 +1688,7 @@ File: ../../headers/img/fond4.pdf Graphic file (type pdf)
  <use ../../headers/img/fond4.pdf>
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 388.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
- [18 <./img/cin_graph.png>] <img/Pompe.pdf, id=400, 844.83629pt x 597.432pt>
+ [19 <./img/cin_graph.png>] <img/Pompe.pdf, id=404, 844.83629pt x 597.432pt>
 File: img/Pompe.pdf Graphic file (type pdf)
 
 <use img/Pompe.pdf>
@@ -1671,7 +1699,7 @@ File: img/Pompe.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/Pompe.pdf used on input line 432.
 (pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
 
-<img/Pompe.pdf, id=403, page=1, 844.83629pt x 597.432pt>
+<img/Pompe.pdf, id=407, page=1, 844.83629pt x 597.432pt>
 File: img/Pompe.pdf Graphic file (type pdf)
 
 <use img/Pompe.pdf, page 1>
@@ -1690,7 +1718,7 @@ File: ../../headers/img/fond4.pdf Graphic file (type pdf)
  <use ../../headers/img/fond4.pdf>
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 432.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
- [19]
+ [20]
 File: img/Pompe.pdf Graphic file (type pdf)
 
 <use img/Pompe.pdf, page 1>
@@ -1709,21 +1737,21 @@ File: img/Pompe.pdf Graphic file (type pdf)
  <use img/Pompe.pdf, page 1>
 Package pdftex.def Info: img/Pompe.pdf, page1 used on input line 432.
 (pdftex.def)             Requested size: 845.54323pt x 597.93192pt.
- [20 <./img/Pompe.pdf>]) (02-TD01.tex <img/EPAS.png, id=426, 967.615pt x 752.81
+ [21 <./img/Pompe.pdf>]) (02-TD01.tex <img/EPAS.png, id=429, 967.615pt x 752.81
 25pt>
 File: img/EPAS.png Graphic file (type png)
 
 <use img/EPAS.png>
 Package pdftex.def Info: img/EPAS.png used on input line 9.
 (pdftex.def)             Requested size: 216.44853pt x 168.39911pt.
- <img/EPAS_schema.png, id=427, 1023.825pt x 728.7225pt>
+ <img/EPAS_schema.png, id=430, 1023.825pt x 728.7225pt>
 File: img/EPAS_schema.png Graphic file (type png)
 
 <use img/EPAS_schema.png>
 Package pdftex.def Info: img/EPAS_schema.png used on input line 33.
 (pdftex.def)             Requested size: 254.92941pt x 181.44629pt.
 
-<img/EPAS_schema_face.png, id=428, 880.28876pt x 636.3775pt>
+<img/EPAS_schema_face.png, id=431, 880.28876pt x 636.3775pt>
 File: img/EPAS_schema_face.png Graphic file (type png)
 
 <use img/EPAS_schema_face.png>
@@ -1738,8 +1766,8 @@ File: ../../headers/img/fond4.pdf Graphic file (type pdf)
 <use ../../headers/img/fond4.pdf>
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 75.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
- [21 <./img/EPAS.png (PNG copy)> <./img/EPAS_schema.png>] <img/EPAS_schema_face
-_2.png, id=436, 784.43062pt x 617.30624pt>
+ [22 <./img/EPAS.png (PNG copy)> <./img/EPAS_schema.png>] <img/EPAS_schema_face
+_2.png, id=439, 784.43062pt x 617.30624pt>
 File: img/EPAS_schema_face_2.png Graphic file (type png)
 
 <use img/EPAS_schema_face_2.png>
@@ -1754,15 +1782,15 @@ File: ../../headers/img/fond4.pdf Graphic file (type pdf)
 <use ../../headers/img/fond4.pdf>
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 130.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
- [22 <./img/EPAS_schema_face.png> <./img/EPAS_schema_face_2.png>]) (02-TD02.tex
+ [23 <./img/EPAS_schema_face.png> <./img/EPAS_schema_face_2.png>]) (02-TD02.tex
 
-<img/fig1.jpg, id=446, 354.32375pt x 268.00125pt>
+<img/fig1.jpg, id=449, 354.32375pt x 268.00125pt>
 File: img/fig1.jpg Graphic file (type jpg)
  <use img/fig1.jpg>
 Package pdftex.def Info: img/fig1.jpg used on input line 6.
 (pdftex.def)             Requested size: 207.78873pt x 157.16653pt.
 
-<img/fig2.jpg, id=447, 638.385pt x 607.26875pt>
+<img/fig2.jpg, id=450, 638.385pt x 607.26875pt>
 File: img/fig2.jpg Graphic file (type jpg)
  <use img/fig2.jpg>
 Package pdftex.def Info: img/fig2.jpg used on input line 10.
@@ -1780,14 +1808,14 @@ File: ../../headers/img/fond4.pdf Graphic file (type pdf)
  <use ../../headers/img/fond4.pdf>
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 16.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
- [23 <./img/fig1.jpg> <./img/fig2.jpg>] <img/fig3.jpg, id=457, 1044.90375pt x 6
+ [24 <./img/fig1.jpg> <./img/fig2.jpg>] <img/fig3.jpg, id=460, 1044.90375pt x 6
 19.31375pt>
 File: img/fig3.jpg Graphic file (type jpg)
 
 <use img/fig3.jpg>
 Package pdftex.def Info: img/fig3.jpg used on input line 30.
 (pdftex.def)             Requested size: 288.60294pt x 171.05362pt.
- <img/fig4.jpg, id=458, 894.34125pt x 503.8825pt>
+ <img/fig4.jpg, id=461, 894.34125pt x 503.8825pt>
 File: img/fig4.jpg Graphic file (type jpg)
 
 <use img/fig4.jpg>
@@ -1802,7 +1830,7 @@ File: ../../headers/img/fond4.pdf Graphic file (type pdf)
 <use ../../headers/img/fond4.pdf>
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 39.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
- [24 <./img/fig3.jpg>]
+ [25 <./img/fig3.jpg>]
 File: ../../headers/img/logo.png Graphic file (type png)
 
 <use ../../headers/img/logo.png>
@@ -1812,7 +1840,7 @@ File: ../../headers/img/fond4.pdf Graphic file (type pdf)
  <use ../../headers/img/fond4.pdf>
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 81.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
- [25 <./img/fig4.jpg>] <img/fig5.jpg, id=473, 1067.99pt x 752.8125pt>
+ [26 <./img/fig4.jpg>] <img/fig5.jpg, id=476, 1067.99pt x 752.8125pt>
 File: img/fig5.jpg Graphic file (type jpg)
  <use img/fig5.jpg>
 Package pdftex.def Info: img/fig5.jpg used on input line 109.
@@ -1826,7 +1854,7 @@ File: ../../headers/img/fond4.pdf Graphic file (type pdf)
  <use ../../headers/img/fond4.pdf>
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 110.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
- [26]
+ [27]
 File: ../../headers/img/logo.png Graphic file (type png)
 
 <use ../../headers/img/logo.png>
@@ -1836,7 +1864,7 @@ File: ../../headers/img/fond4.pdf Graphic file (type pdf)
  <use ../../headers/img/fond4.pdf>
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 178.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
- [27 <./img/fig5.jpg>]
+ [28 <./img/fig5.jpg>]
 File: ../../headers/img/logo.png Graphic file (type png)
  <use ../../headers/img/logo.png>
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 180.
@@ -1846,21 +1874,15 @@ File: ../../headers/img/fond4.pdf Graphic file (type pdf)
 Package pdftex.def Info: ../../headers/img/fond4.pdf used on input line 180.
 (pdftex.def)             Requested size: 585.064pt x 845.09245pt.
 
-[28]
+[29]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 182.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 182.
  (TD01_prive.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 182.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 182.
+Package rerunfilecheck Info: File `TD01_prive.out' has not changed.
+(rerunfilecheck)             Checksum: F32A9250BC0CD5D612EA3493A3A976EF;732.
 
-
-Package rerunfilecheck Warning: File `TD01_prive.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `TD01_prive.out':
-(rerunfilecheck)             Before: 7D93C470DB67EA254551D3E73A624A29;787
-(rerunfilecheck)             After:  F32A9250BC0CD5D612EA3493A3A976EF;732.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1870,29 +1892,26 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 182.
  ) ) 
 Here is how much of TeX's memory you used:
- 29352 strings out of 493334
- 624652 string characters out of 3139252
+ 29363 strings out of 493334
+ 624880 string characters out of 3139253
  811415 words of memory out of 3000000
- 32112 multiletter control sequences out of 15000+200000
- 38567 words of font info for 74 fonts, out of 3000000 for 9000
+ 32120 multiletter control sequences out of 15000+200000
+ 41457 words of font info for 76 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  65i,25n,69p,962b,579s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{section.12} has been referenced but does not ex
-ist, replaced by a fixed one
-
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/texnansi.enc}{C:/Program 
-Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/f
-onts/type1/bitstrea/charter/bchr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/bitstrea/charter/bchri8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesi
-gn/mdbch/md-chr7m.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/mdbch
-/md-chr7t.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/mdbch/md-chr7
-v.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/mdbch/md-chr7y.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/mdbch/md-chri7m.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on TD01_prive.pdf (28 pages, 10227649 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/texnansi.enc}{C:/Prog
+ram Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2
+.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/bitstrea/charter/bchri8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/math
+design/mdbch/md-chr7m.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/m
+dbch/md-chr7t.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/mdbch/md-
+chr7v.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/mdbch/md-chr7y.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/mdbch/md-chri7m.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on TD01_prive.pdf (29 pages, 10363246 bytes).
 PDF statistics:
- 559 PDF objects out of 1000 (max. 8388607)
+ 562 PDF objects out of 1000 (max. 8388607)
  151 named destinations out of 1000 (max. 500000)
- 334 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 336 words of extra memory for PDF output out of 10000 (max. 10000000)
 

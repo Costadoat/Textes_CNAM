@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.22)  7 NOV 2016 18:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.6.9)  7 OCT 2017 09:47
 entering extended mode
 **\def\public{}\input{C02.tex}
 (C02.tex (intro.tex) (../../headers/beamercoursHeadings.tex
@@ -1869,12 +1869,18 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 6.29996pt on input line 433.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 15.55188pt on input line 447.
+ <img/qrcode.png, id=38, 396.0pt x 396.0pt>
+File: img/qrcode.png Graphic file (type png)
+
+<use img/qrcode.png>
+Package pdftex.def Info: img/qrcode.png used on input line 447.
+(pdftex.def)             Requested size: 79.1986pt x 79.1986pt.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 9.85492pt on input line 447.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 8.99994pt on input line 447.
 
-<../../headers/img/fond.png, id=38, 2078.51532pt x 1556.81625pt>
+<../../headers/img/fond.png, id=40, 2078.51532pt x 1556.81625pt>
 File: ../../headers/img/fond.png Graphic file (type png)
 
 <use ../../headers/img/fond.png>
@@ -1894,8 +1900,8 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 447.
 Non-PDF special ignored!
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <../../headers/img/fond.pn
-g> <../../headers/img/logo.png>]) (02-C01.tex
-<img/rdm1.png, id=49, 264.5817pt x 89.41881pt>
+g> <./img/qrcode.png> <../../headers/img/logo.png>])
+(02-C01.tex <img/rdm1.png, id=51, 264.5817pt x 89.41881pt>
 File: img/rdm1.png Graphic file (type png)
  <use img/rdm1.png>
 Package pdftex.def Info: img/rdm1.png used on input line 18.
@@ -1903,7 +1909,7 @@ Package pdftex.def Info: img/rdm1.png used on input line 18.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 7.19995pt on input line 18.
 
-<../../headers/img/fond2.pdf, id=50, 2218.6889pt x 1658.99805pt>
+<../../headers/img/fond2.pdf, id=52, 2218.6889pt x 1658.99805pt>
 File: ../../headers/img/fond2.pdf Graphic file (type pdf)
 
 <use ../../headers/img/fond2.pdf>
@@ -1928,19 +1934,19 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 31.
  [3
 
 ]
-<img/rdm2.png, id=155, 436.1707pt x 321.38895pt>
+<img/rdm2.png, id=157, 436.1707pt x 321.38895pt>
 File: img/rdm2.png Graphic file (type png)
  <use img/rdm2.png>
 Package pdftex.def Info: img/rdm2.png used on input line 44.
 (pdftex.def)             Requested size: 160.55933pt x 118.30885pt.
 
-<img/rdm3.png, id=156, 185.9748pt x 241.8636pt>
+<img/rdm3.png, id=158, 185.9748pt x 241.8636pt>
 File: img/rdm3.png Graphic file (type png)
  <use img/rdm3.png>
 Package pdftex.def Info: img/rdm3.png used on input line 44.
 (pdftex.def)             Requested size: 61.45703pt x 79.92595pt.
 
-<img/rdm4.png, id=157, 245.2362pt x 182.6022pt>
+<img/rdm4.png, id=159, 245.2362pt x 182.6022pt>
 File: img/rdm4.png Graphic file (type png)
  <use img/rdm4.png>
 Package pdftex.def Info: img/rdm4.png used on input line 44.
@@ -1957,13 +1963,13 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 44.
  [4
 
  <./img/rdm2.png> <./img/rdm3.png> <./img/rdm4.png>]
-<img/rdm5.png, id=191, 367.72676pt x 316.71265pt>
+<img/rdm5.png, id=193, 367.72676pt x 316.71265pt>
 File: img/rdm5.png Graphic file (type png)
  <use img/rdm5.png>
 Package pdftex.def Info: img/rdm5.png used on input line 56.
 (pdftex.def)             Requested size: 138.2795pt x 119.09557pt.
 
-<img/rdm6.png, id=192, 323.70938pt x 212.29312pt>
+<img/rdm6.png, id=194, 323.70938pt x 212.29312pt>
 File: img/rdm6.png Graphic file (type png)
  <use img/rdm6.png>
 Package pdftex.def Info: img/rdm6.png used on input line 56.
@@ -1979,7 +1985,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 56.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
  [5
 
- <./img/rdm5.png> <./img/rdm6.png>] <img/rdm7.png, id=225, 302.63063pt x 191.70
+ <./img/rdm5.png> <./img/rdm6.png>] <img/rdm7.png, id=227, 302.63063pt x 191.70
 569pt>
 File: img/rdm7.png Graphic file (type png)
 
@@ -1998,7 +2004,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 77.
  [6
 
  <./img/rdm7.png>]
-<img/rdm8.png, id=257, 340.70143pt x 201.32358pt>
+<img/rdm8.png, id=259, 340.70143pt x 201.32358pt>
 File: img/rdm8.png Graphic file (type png)
  <use img/rdm8.png>
 Package pdftex.def Info: img/rdm8.png used on input line 93.
@@ -2014,7 +2020,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 93.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
  [7
 
- <./img/rdm8.png>] <img/rdm85.png, id=290, 401.5pt x 204.765pt>
+ <./img/rdm8.png>] <img/rdm85.png, id=292, 401.5pt x 204.765pt>
 File: img/rdm85.png Graphic file (type png)
  <use img/rdm85.png>
 Package pdftex.def Info: img/rdm85.png used on input line 106.
@@ -2030,7 +2036,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 106.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
  [8
 
- <./img/rdm85.png>] <img/rdm9.png, id=322, 345.17015pt x 224.3606pt>
+ <./img/rdm85.png>] <img/rdm9.png, id=324, 345.17015pt x 224.3606pt>
 File: img/rdm9.png Graphic file (type png)
  <use img/rdm9.png>
 Package pdftex.def Info: img/rdm9.png used on input line 118.
@@ -2058,25 +2064,25 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 142.
 
 [10
 
-] <img/rdm10.png, id=385, 132.495pt x 104.0688pt>
+] <img/rdm10.png, id=387, 132.495pt x 104.0688pt>
 File: img/rdm10.png Graphic file (type png)
  <use img/rdm10.png>
 Package pdftex.def Info: img/rdm10.png used on input line 169.
 (pdftex.def)             Requested size: 46.0916pt x 36.2023pt.
 
-<img/rdm11.png, id=386, 139.722pt x 111.2958pt>
+<img/rdm11.png, id=388, 139.722pt x 111.2958pt>
 File: img/rdm11.png Graphic file (type png)
  <use img/rdm11.png>
 Package pdftex.def Info: img/rdm11.png used on input line 169.
 (pdftex.def)             Requested size: 46.0916pt x 36.71413pt.
 
-<img/rdm12.png, id=387, 137.7948pt x 115.1502pt>
+<img/rdm12.png, id=389, 137.7948pt x 115.1502pt>
 File: img/rdm12.png Graphic file (type png)
  <use img/rdm12.png>
 Package pdftex.def Info: img/rdm12.png used on input line 169.
 (pdftex.def)             Requested size: 46.0916pt x 38.51625pt.
 
-<img/rdm13.png, id=388, 130.5678pt x 104.5506pt>
+<img/rdm13.png, id=390, 130.5678pt x 104.5506pt>
 File: img/rdm13.png Graphic file (type png)
  <use img/rdm13.png>
 Package pdftex.def Info: img/rdm13.png used on input line 169.
@@ -2093,13 +2099,13 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 169.
  [11
 
  <./img/rdm10.png> <./img/rdm11.png> <./img/rdm12.png> <./img/rdm13.png>]
-<img/rdm14.png, id=423, 839.70857pt x 389.3116pt>
+<img/rdm14.png, id=425, 839.70857pt x 389.3116pt>
 File: img/rdm14.png Graphic file (type png)
  <use img/rdm14.png>
 Package pdftex.def Info: img/rdm14.png used on input line 189.
 (pdftex.def)             Requested size: 122.91406pt x 56.98633pt.
 
-<img/rdm141.jpg, id=424, 253.80644pt x 118.60622pt>
+<img/rdm141.jpg, id=426, 253.80644pt x 118.60622pt>
 File: img/rdm141.jpg Graphic file (type jpg)
  <use img/rdm141.jpg>
 Package pdftex.def Info: img/rdm141.jpg used on input line 189.
@@ -2116,7 +2122,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 189.
  [12
 
  <./img/rdm14.png> <./img/rdm141.jpg>]
-<img/rdm15.png, id=456, 170.91591pt x 236.32817pt>
+<img/rdm15.png, id=458, 170.91591pt x 236.32817pt>
 File: img/rdm15.png Graphic file (type png)
  <use img/rdm15.png>
 Package pdftex.def Info: img/rdm15.png used on input line 214.
@@ -2132,7 +2138,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 214.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
  [13
 
- <./img/rdm15.png>] <img/rdm16.png, id=488, 144.54pt x 155.1396pt>
+ <./img/rdm15.png>] <img/rdm16.png, id=490, 144.54pt x 155.1396pt>
 File: img/rdm16.png Graphic file (type png)
  <use img/rdm16.png>
 Package pdftex.def Info: img/rdm16.png used on input line 249.
@@ -2151,14 +2157,14 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 249.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
  [14
 
- <./img/rdm16.png>]) (02-C02.tex <img/moto.jpg, id=520, 376.40625pt x 237.13594
+ <./img/rdm16.png>]) (02-C02.tex <img/moto.jpg, id=522, 376.40625pt x 237.13594
 pt>
 File: img/moto.jpg Graphic file (type jpg)
 
 <use img/moto.jpg>
 Package pdftex.def Info: img/moto.jpg used on input line 19.
 (pdftex.def)             Requested size: 103.24802pt x 65.04431pt.
- <img/barrage.jpg, id=521, 552.0625pt x 413.545pt>
+ <img/barrage.jpg, id=523, 552.0625pt x 413.545pt>
 File: img/barrage.jpg Graphic file (type jpg)
 
 <use img/barrage.jpg>
@@ -2176,7 +2182,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 19.
  [15
 
  <./img/moto.jpg> <./img/barrage.jpg>]
-<img/tgv.jpg, id=553, 380.42125pt x 314.17375pt>
+<img/tgv.jpg, id=555, 380.42125pt x 314.17375pt>
 File: img/tgv.jpg Graphic file (type jpg)
  <use img/tgv.jpg>
 Package pdftex.def Info: img/tgv.jpg used on input line 43.
@@ -2192,7 +2198,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 43.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
  [16
 
- <./img/tgv.jpg>] <img/helico.jpg, id=583, 365.365pt x 366.36874pt>
+ <./img/tgv.jpg>] <img/helico.jpg, id=585, 365.365pt x 366.36874pt>
 File: img/helico.jpg Graphic file (type jpg)
 
 <use img/helico.jpg>
@@ -2210,7 +2216,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 69.
  [17
 
  <./img/helico.jpg>]
-<img/pendule.jpg, id=613, 216.81pt x 143.5764pt>
+<img/pendule.jpg, id=615, 216.81pt x 143.5764pt>
 File: img/pendule.jpg Graphic file (type jpg)
  <use img/pendule.jpg>
 Package pdftex.def Info: img/pendule.jpg used on input line 90.
@@ -2226,7 +2232,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 90.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
  [18
 
- <./img/pendule.jpg>] <img/billard.jpg, id=645, 220.825pt x 147.55125pt>
+ <./img/pendule.jpg>] <img/billard.jpg, id=647, 220.825pt x 147.55125pt>
 File: img/billard.jpg Graphic file (type jpg)
 
 <use img/billard.jpg>
@@ -2268,7 +2274,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 165.
  [21
 
 ]
-<img/patinage.png, id=738, 372.64218pt x 115.93312pt>
+<img/patinage.png, id=740, 372.64218pt x 115.93312pt>
 File: img/patinage.png Graphic file (type png)
  <use img/patinage.png>
 Package pdftex.def Info: img/patinage.png used on input line 192.
@@ -2284,7 +2290,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 192.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
  [22
 
- <./img/patinage.png (PNG copy)>] <img/cylindre.jpg, id=769, 260.975pt x 308.15
+ <./img/patinage.png (PNG copy)>] <img/cylindre.jpg, id=771, 260.975pt x 308.15
 125pt>
 File: img/cylindre.jpg Graphic file (type jpg)
 
@@ -2303,14 +2309,14 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 222.
  [23
 
  <./img/cylindre.jpg>]
-<img/Manege_pieuvre_3.png, id=800, 1027.84pt x 686.565pt>
+<img/Manege_pieuvre_3.png, id=802, 1027.84pt x 686.565pt>
 File: img/Manege_pieuvre_3.png Graphic file (type png)
 
 <use img/Manege_pieuvre_3.png>
 Package pdftex.def Info: img/Manege_pieuvre_3.png used on input line 239.
 (pdftex.def)             Requested size: 169.01036pt x 112.89072pt.
 
-<img/Manege_pieuvre_1.png, id=801, 459.7175pt x 739.76375pt>
+<img/Manege_pieuvre_1.png, id=803, 459.7175pt x 739.76375pt>
 File: img/Manege_pieuvre_1.png Graphic file (type png)
 
 <use img/Manege_pieuvre_1.png>
@@ -2328,7 +2334,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 239.
  [24
 
  <./img/Manege_pieuvre_3.png> <./img/Manege_pieuvre_1.png>] <img/Manege_pieuvre
-_2.png, id=831, 494.84875pt x 464.73625pt>
+_2.png, id=833, 494.84875pt x 464.73625pt>
 File: img/Manege_pieuvre_2.png Graphic file (type png)
 
 <use img/Manege_pieuvre_2.png>
@@ -2408,7 +2414,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 367.
  [29
 
 ]
-<img/devers.jpg, id=981, 389.455pt x 354.32375pt>
+<img/devers.jpg, id=983, 389.455pt x 354.32375pt>
 File: img/devers.jpg Graphic file (type jpg)
  <use img/devers.jpg>
 Package pdftex.def Info: img/devers.jpg used on input line 395.
@@ -2444,10 +2450,10 @@ Package rerunfilecheck Info: File `C02.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 397.
  ) ) 
 Here is how much of TeX's memory you used:
- 37167 strings out of 493334
- 776799 string characters out of 3139252
- 1037666 words of memory out of 3000000
- 39704 multiletter control sequences out of 15000+200000
+ 37173 strings out of 493334
+ 776895 string characters out of 3139253
+ 1037874 words of memory out of 3000000
+ 39709 multiletter control sequences out of 15000+200000
  79457 words of font info for 114 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,22n,102p,3298b,754s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2460,9 +2466,9 @@ athdesign/mdput/md-utr7m.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helve
 tic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Program 
 Files/MiKTeX 2.9/fonts/type1/urw/symbol/usyr.pfb>
-Output written on C02.pdf (30 pages, 3218471 bytes).
+Output written on C02.pdf (30 pages, 3311896 bytes).
 PDF statistics:
- 1057 PDF objects out of 1200 (max. 8388607)
+ 1059 PDF objects out of 1200 (max. 8388607)
  66 named destinations out of 1000 (max. 500000)
- 254 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 259 words of extra memory for PDF output out of 10000 (max. 10000000)
 

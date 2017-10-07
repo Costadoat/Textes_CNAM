@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.22)  4 NOV 2016 15:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.6.9)  7 OCT 2017 09:46
 entering extended mode
 **\def\prive{}\input{C01.tex}
 (C01.tex (intro.tex) (../../headers/beamercoursHeadings.tex
@@ -1251,48 +1251,57 @@ File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
 equationarray 1.3 <December 1, 2010>
 Package: eqnarray 
 \@eqargcnt=\count192
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\multido\multido.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\ulem\ulem.sty"
+\UL@box=\box85
+\UL@hyphenbox=\box86
+\UL@skip=\skip70
+\UL@hook=\toks63
+\UL@height=\dimen328
+\UL@pe=\count193
+\UL@pixel=\dimen329
+\ULC@box=\box87
+Package: ulem 2012/05/18
+\ULdepth=\dimen330
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multido\multido.sty"
 Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\multido\multido.tex"
  v1.42, 2010/05/14 <tvz>
-\multido@count=\count193
-\multidocount=\count194
-\multido@stuff=\toks63
+\multido@count=\count194
+\multidocount=\count195
+\multido@stuff=\toks64
 )
 File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
-\bigstrutjot=\dimen328
+\bigstrutjot=\dimen331
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
 Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
-\c@tracingmulticols=\count195
-\mult@box=\box85
-\multicol@leftmargin=\dimen329
-\c@unbalance=\count196
-\c@collectmore=\count197
-\doublecol@number=\count198
-\multicoltolerance=\count199
+\c@tracingmulticols=\count196
+\mult@box=\box88
+\multicol@leftmargin=\dimen332
+\c@unbalance=\count197
+\c@collectmore=\count198
+\doublecol@number=\count199
 Normal \count register pool exhausted, switching to extended pool.
-\multicolpretolerance=\count277
-\full@width=\dimen330
-\page@free=\dimen331
-\premulticols=\dimen332
-\postmulticols=\dimen333
-\multicolsep=\skip70
-\multicolbaselineskip=\skip71
-\partial@page=\box86
-\last@line=\box87
-\maxbalancingoverflow=\dimen334
-\mult@rightbox=\box88
-\mult@grightbox=\box89
-\mult@gfirstbox=\box90
-\mult@firstbox=\box91
-\@tempa=\box92
-\@tempa=\box93
-\@tempa=\box94
+\multicoltolerance=\count277
+\multicolpretolerance=\count278
+\full@width=\dimen333
+\page@free=\dimen334
+\premulticols=\dimen335
+\postmulticols=\dimen336
+\multicolsep=\skip71
+\multicolbaselineskip=\skip72
+\partial@page=\box89
+\last@line=\box90
+\maxbalancingoverflow=\dimen337
+\mult@rightbox=\box91
+\mult@grightbox=\box92
+\mult@gfirstbox=\box93
+\mult@firstbox=\box94
 \@tempa=\box95
 \@tempa=\box96
 \@tempa=\box97
@@ -1307,14 +1316,17 @@ Normal \count register pool exhausted, switching to extended pool.
 \@tempa=\box106
 \@tempa=\box107
 \@tempa=\box108
-\c@columnbadness=\count278
-\c@finalcolumnbadness=\count279
-\last@try=\dimen335
-\multicolovershoot=\dimen336
-\multicolundershoot=\dimen337
-\mult@nat@firstbox=\box109
-\colbreak@box=\box110
-\mc@col@check@num=\count280
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\c@columnbadness=\count279
+\c@finalcolumnbadness=\count280
+\last@try=\dimen338
+\multicolovershoot=\dimen339
+\multicolundershoot=\dimen340
+\mult@nat@firstbox=\box112
+\colbreak@box=\box113
+\mc@col@check@num=\count281
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\flafter.sty"
 Package: flafter 2015/09/05 v1.3a Standard LaTeX floats after reference (FMi)
@@ -1323,8 +1335,8 @@ Already applied: [0000/00/00] float order in 2-column on input line 151.
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
 Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
-\everycr=\toks64
-\minrowclearance=\skip72
+\everycr=\toks65
+\minrowclearance=\skip73
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
@@ -1335,15 +1347,15 @@ LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks65
-\inpenc@posthook=\toks66
+\inpenc@prehook=\toks66
+\inpenc@posthook=\toks67
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\latin1.def"
 File: latin1.def 2015/03/17 v1.2c Input encoding file
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\eurosym\eurosym.sty"
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
-\@eurobox=\box111
+\@eurobox=\box114
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\lmodern.sty"
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
@@ -1395,38 +1407,38 @@ Language: frenchb 2016/05/14 v3.2c French support from the babel system
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2016/04/23 3.9r Babel common definitions
-\babel@savecnt=\count281
-\U@D=\dimen338
+\babel@savecnt=\count282
+\U@D=\dimen341
 LaTeX Info: Redefining \textlatin on input line 1448.
 )
 \l@acadian = a dialect from \language\l@french 
 \l@canadien = a dialect from \language\l@french 
-\FB@nonchar=\count282
-\FBcolonskip=\skip73
-\FBthinskip=\skip74
+\FB@nonchar=\count283
+\FBcolonskip=\skip74
+\FBthinskip=\skip75
 Package babel Info: Making : an active character on input line 365.
 Package babel Info: Making ; an active character on input line 366.
 Package babel Info: Making ! an active character on input line 367.
 Package babel Info: Making ? an active character on input line 368.
-\FBguillskip=\skip75
-\FBguill@level=\count283
-\FB@everypar=\toks67
-\FB@Mht=\dimen339
-\std@mcc=\count284
-\dec@mcc=\count285
+\FBguillskip=\skip76
+\FBguill@level=\count284
+\FB@everypar=\toks68
+\FB@Mht=\dimen342
+\std@mcc=\count285
+\dec@mcc=\count286
 
 
 Package frenchb.ldf Warning: Please load the "caption" package
 (frenchb.ldf)                AFTER babel/frenchb; reported on input line 909.
 
-\listindentFB=\skip76
-\labelwidthFB=\skip77
-\leftmarginFB=\skip78
-\parindentFFN=\dimen340
-\FBfnindent=\skip79
+\listindentFB=\skip77
+\labelwidthFB=\skip78
+\leftmarginFB=\skip79
+\parindentFFN=\dimen343
+\FBfnindent=\skip80
 )) ("C:\Program Files\MiKTeX 2.9\tex\latex\carlisle\scalefnt.sty")
 Package frenchb.ldf Info: No list customisation for the beamer class,
-(frenchb.ldf)             reported on input line 39.
+(frenchb.ldf)             reported on input line 41.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pslatex\pslatex.sty"
 Package: pslatex 1996/07/24 v1.2 pslatex emulation (DPC)
@@ -1494,84 +1506,84 @@ Package: times 2005/04/12 PSNFSS-v9.2a (SPQR)
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks68
-\verbatim@line=\toks69
+\every@verbatim=\toks69
+\verbatim@line=\toks70
 \verbatim@in@stream=\read3
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\moreverb\moreverb.sty"
 Package: moreverb 2008/06/03 v2.3a `more' verbatim facilities
-\tab@position=\count286
-\tab@size=\count287
-\listing@line=\count288
+\tab@position=\count287
+\tab@size=\count288
+\listing@line=\count289
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psfrag\psfrag.sty"
 Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
-\pfg@pcount=\count289
-\pfg@scount=\count290
+\pfg@pcount=\count290
+\pfg@scount=\count291
 \pfg@temp=\write6
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
-\wrapoverhang=\dimen341
-\WF@size=\dimen342
-\c@WF@wrappedlines=\count291
-\WF@box=\box112
-\WF@everypar=\toks70
+\wrapoverhang=\dimen344
+\WF@size=\dimen345
+\c@WF@wrappedlines=\count292
+\WF@box=\box115
+\WF@everypar=\toks71
 Package: wrapfig 2003/01/31  v 3.6
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count292
+\etb@tempcnta=\count293
 )
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 71.99951pt on input line 395.
+(Font)              scaled to size 71.99951pt on input line 397.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <40> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 397.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 399.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 35.99976pt on input line 397.
+(Font)              scaled to size 35.99976pt on input line 399.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 22.49985pt on input line 399.
-\RoundedBoxWidth=\skip80
-\GrayRoundedBox=\box113
-\pgfpages@box@1=\box114
-\pgfpages@box@2=\box115
+(Font)              scaled to size 22.49985pt on input line 401.
+\RoundedBoxWidth=\skip81
+\GrayRoundedBox=\box116
+\pgfpages@box@1=\box117
+\pgfpages@box@2=\box118
  (C01_prive.aux)
 \openout1 = `C01_prive.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 431.
-LaTeX Font Info:    ... okay on input line 431.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 431.
-LaTeX Font Info:    ... okay on input line 431.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 431.
-LaTeX Font Info:    ... okay on input line 431.
-LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 431.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 433.
+LaTeX Font Info:    ... okay on input line 433.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 433.
+LaTeX Font Info:    ... okay on input line 433.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 433.
+LaTeX Font Info:    ... okay on input line 433.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 433.
 LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 43
-1.
+3.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omspzccm.fd"
 File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
 )
-LaTeX Font Info:    ... okay on input line 431.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 431.
-LaTeX Font Info:    ... okay on input line 431.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 431.
-LaTeX Font Info:    ... okay on input line 431.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 431.
-LaTeX Font Info:    ... okay on input line 431.
-LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 431.
-LaTeX Font Info:    Try loading font information for MDA+cmr on input line 431.
+LaTeX Font Info:    ... okay on input line 433.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 433.
+LaTeX Font Info:    ... okay on input line 433.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 433.
+LaTeX Font Info:    ... okay on input line 433.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 433.
+LaTeX Font Info:    ... okay on input line 433.
+LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 433.
+LaTeX Font Info:    Try loading font information for MDA+cmr on input line 433.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdacmr.fd"
 File: mdacmr.fd 
 )
-LaTeX Font Info:    ... okay on input line 431.
-LaTeX Font Info:    Checking defaults for MDB/cmr/m/n on input line 431.
-LaTeX Font Info:    Try loading font information for MDB+cmr on input line 431.
+LaTeX Font Info:    ... okay on input line 433.
+LaTeX Font Info:    Checking defaults for MDB/cmr/m/n on input line 433.
+LaTeX Font Info:    Try loading font information for MDB+cmr on input line 433.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbcmr.fd"
 File: mdbcmr.fd 
 )
-LaTeX Font Info:    ... okay on input line 431.
+LaTeX Font Info:    ... okay on input line 433.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1609,17 +1621,17 @@ LaTeX Font Info:    ... okay on input line 431.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count293
-\scratchdimen=\dimen343
-\scratchbox=\box116
-\nofMPsegments=\count294
-\nofMParguments=\count295
-\everyMPshowfont=\toks71
-\MPscratchCnt=\count296
-\MPscratchDim=\dimen344
-\MPnumerator=\count297
-\makeMPintoPDFobject=\count298
-\everyMPtoPDFconversion=\toks72
+\scratchcounter=\count294
+\scratchdimen=\dimen346
+\scratchbox=\box119
+\nofMPsegments=\count295
+\nofMParguments=\count296
+\everyMPshowfont=\toks72
+\MPscratchCnt=\count297
+\MPscratchDim=\dimen347
+\MPnumerator=\count298
+\makeMPintoPDFobject=\count299
+\everyMPtoPDFconversion=\toks73
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1634,8 +1646,8 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box117
-Package hyperref Info: Link coloring OFF on input line 431.
+\AtBeginShipoutBox=\box120
+Package hyperref Info: Link coloring OFF on input line 433.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1643,62 +1655,62 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count299
+\c@section@level=\count300
 )
-LaTeX Info: Redefining \ref on input line 431.
-LaTeX Info: Redefining \pageref on input line 431.
-LaTeX Info: Redefining \nameref on input line 431.
+LaTeX Info: Redefining \ref on input line 433.
+LaTeX Info: Redefining \pageref on input line 433.
+LaTeX Info: Redefining \nameref on input line 433.
 
 (C01_prive.out) (C01_prive.out)
 \@outlinefile=\write7
 \openout7 = `C01_prive.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/ptmcm/m/n --> OT1/cmss/m/n on input line 431.
+(Font)                  OT1/ptmcm/m/n --> OT1/cmss/m/n on input line 433.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/ptmcm/m/n --> OT1/cmss/b/n on input line 431.
+(Font)                  OT1/ptmcm/m/n --> OT1/cmss/b/n on input line 433.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/phv/m/n on input line 431.
+(Font)                  OT1/cmss/m/n --> OT1/phv/m/n on input line 433.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/phv/b/n on input line 431.
+(Font)                  OT1/cmss/b/n --> OT1/phv/b/n on input line 433.
 \symnumbers=\mathgroup13
 \sympureletters=\mathgroup14
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OML/mdput/m/n --> T1/ptm/m/n on input line 431.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 431.
+(Font)                  OML/mdput/m/n --> T1/ptm/m/n on input line 433.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 433.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/ptm/bx/n --> T1/phv/b/n on input line 431.
+(Font)                  OT1/ptm/bx/n --> T1/phv/b/n on input line 433.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/ptm/bx/n --> T1/phv/b/n on input line 431.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 431.
+(Font)                  OT1/ptm/bx/n --> T1/phv/b/n on input line 433.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 433.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/phv/m/n on input line 431.
+(Font)                  OT1/lmss/m/n --> T1/phv/m/n on input line 433.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> T1/phv/m/n on input line 431.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 431.
+(Font)                  OT1/lmss/bx/n --> T1/phv/m/n on input line 433.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 433.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/ptm/m/it --> T1/phv/m/it on input line 431.
+(Font)                  OT1/ptm/m/it --> T1/phv/m/it on input line 433.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/ptm/m/it --> T1/phv/m/it on input line 431.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 431.
+(Font)                  OT1/ptm/m/it --> T1/phv/m/it on input line 433.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 433.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> T1/pcr/m/n on input line 431.
+(Font)                  OT1/lmtt/m/n --> T1/pcr/m/n on input line 433.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> T1/pcr/m/n on input line 431.
+(Font)                  OT1/lmtt/m/n --> T1/pcr/m/n on input line 433.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/b/n on input line 431.
+(Font)                  T1/phv/m/n --> T1/phv/b/n on input line 433.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/b/it on input line 431.
+(Font)                  T1/phv/m/it --> T1/phv/b/it on input line 433.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OML/mdput/b/n --> T1/ptm/b/n on input line 431.
+(Font)                  OML/mdput/b/n --> T1/ptm/b/n on input line 433.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/phv/b/n --> T1/phv/b/n on input line 431.
+(Font)                  T1/phv/b/n --> T1/phv/b/n on input line 433.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/b/n on input line 431.
+(Font)                  T1/phv/m/n --> T1/phv/b/n on input line 433.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/b/it on input line 431.
+(Font)                  T1/phv/m/it --> T1/phv/b/it on input line 433.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/pcr/m/n --> T1/pcr/b/n on input line 431.
+(Font)                  T1/pcr/m/n --> T1/pcr/b/n on input line 433.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\translator
 -basic-dictionary\translator-basic-dictionary-English.dict"
@@ -1724,106 +1736,106 @@ Dictionary: translator-numbers-dictionary, Language: English
 -theorem-dictionary\translator-theorem-dictionary-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 431.
+LaTeX Info: Redefining \includegraphics on input line 433.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 7.19995pt on input line 431.
+(Font)              scaled to size 7.19995pt on input line 433.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 5.39996pt on input line 431.
+(Font)              scaled to size 5.39996pt on input line 433.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 4.49997pt on input line 431.
+(Font)              scaled to size 4.49997pt on input line 433.
 LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 43
-1.
+3.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlptmcm.fd"
 File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
 )
 LaTeX Font Info:    Try loading font information for OMX+psycm on input line 43
-1.
+3.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxpsycm.fd"
 File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 431.
+LaTeX Font Info:    Try loading font information for U+msa on input line 433.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 431.
+LaTeX Font Info:    Try loading font information for U+msb on input line 433.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OMS+mdput on input line 43
-1.
+3.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdput\omsmdput.fd"
 File: omsmdput.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdput.
 )
 LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
-(Font)              scaled to size 7.52002pt on input line 431.
+(Font)              scaled to size 7.52002pt on input line 433.
 LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
-(Font)              scaled to size 5.64001pt on input line 431.
+(Font)              scaled to size 5.64001pt on input line 433.
 LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
-(Font)              scaled to size 4.70001pt on input line 431.
+(Font)              scaled to size 4.70001pt on input line 433.
 LaTeX Font Info:    Try loading font information for OML+mdput on input line 43
-1.
+3.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdput\omlmdput.fd"
 File: omlmdput.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdput.
 )
 LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
-(Font)              scaled to size 7.52002pt on input line 431.
+(Font)              scaled to size 7.52002pt on input line 433.
 LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
-(Font)              scaled to size 5.64001pt on input line 431.
+(Font)              scaled to size 5.64001pt on input line 433.
 LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
-(Font)              scaled to size 4.70001pt on input line 431.
+(Font)              scaled to size 4.70001pt on input line 433.
 LaTeX Font Info:    Try loading font information for MDA+mdput on input line 43
-1.
+3.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdput\mdamdput.fd"
 File: mdamdput.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdput.
 )
 LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
-(Font)              scaled to size 7.52002pt on input line 431.
+(Font)              scaled to size 7.52002pt on input line 433.
 LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
-(Font)              scaled to size 5.64001pt on input line 431.
+(Font)              scaled to size 5.64001pt on input line 433.
 LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
-(Font)              scaled to size 4.70001pt on input line 431.
+(Font)              scaled to size 4.70001pt on input line 433.
 LaTeX Font Info:    Try loading font information for MDB+mdput on input line 43
-1.
+3.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdput\mdbmdput.fd"
 File: mdbmdput.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdput.
 )
 LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
-(Font)              scaled to size 7.52002pt on input line 431.
+(Font)              scaled to size 7.52002pt on input line 433.
 LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
-(Font)              scaled to size 5.64001pt on input line 431.
+(Font)              scaled to size 5.64001pt on input line 433.
 LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
-(Font)              scaled to size 4.70001pt on input line 431.
+(Font)              scaled to size 4.70001pt on input line 433.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 431.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 433.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 431.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 433.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 431.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 433.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 5.39996pt on input line 431.
+(Font)              scaled to size 5.39996pt on input line 433.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 4.49997pt on input line 431.
+(Font)              scaled to size 4.49997pt on input line 433.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 431.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 433.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 7.19995pt on input line 431.
+(Font)              scaled to size 7.19995pt on input line 433.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 431.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 433.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 5.39996pt on input line 431.
+(Font)              scaled to size 5.39996pt on input line 433.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 431.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 433.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 4.49997pt on input line 431.
-Package xypdf Info: Line width: 0.31992pt on input line 431.
+(Font)              scaled to size 4.49997pt on input line 433.
+Package xypdf Info: Line width: 0.31992pt on input line 433.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
@@ -1835,59 +1847,65 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 
 Package mathdesign/mdput Warning: Package 'amssymb' shouldn't be used in conjon
-ction with package mdput, on input line 431.
+ction with package mdput, on input line 433.
 
 
 Package mathdesign/mdput Warning: Package 'amsfonts' shouldn't be used in conjo
-nction with package mdput, on input line 431.
+nction with package mdput, on input line 433.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \degres on input line 431.
-LaTeX Info: Redefining \dots on input line 431.
-LaTeX Info: Redefining \up on input line 431.
+LaTeX Info: Redefining \degres on input line 433.
+LaTeX Info: Redefining \dots on input line 433.
+LaTeX Info: Redefining \up on input line 433.
 (C01_prive.nav) <../../headers/img/logo.png, id=68, 572.1375pt x 147.55125pt>
 File: ../../headers/img/logo.png Graphic file (type png)
 
 <use ../../headers/img/logo.png>
-Package pdftex.def Info: ../../headers/img/logo.png used on input line 431.
+Package pdftex.def Info: ../../headers/img/logo.png used on input line 433.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 6.29996pt on input line 431.
+(Font)              scaled to size 6.29996pt on input line 433.
 
-Overfull \hbox (599.71046pt too wide) detected at line 431
+Overfull \hbox (599.71046pt too wide) detected at line 433
   [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 15.55188pt on input line 445.
+(Font)              scaled to size 15.55188pt on input line 447.
+<img/qrcode.png, id=83, 396.0pt x 396.0pt>
+File: img/qrcode.png Graphic file (type png)
+ <use img/qrcode.png>
+Package pdftex.def Info: img/qrcode.png used on input line 447.
+(pdftex.def)             Requested size: 79.1986pt x 79.1986pt.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 445.
+(Font)              scaled to size 9.85492pt on input line 447.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 445.
-<../../headers/img/fond.png, id=83, 2078.51532pt x 1556.81625pt>
+(Font)              scaled to size 8.99994pt on input line 447.
+
+<../../headers/img/fond.png, id=85, 2078.51532pt x 1556.81625pt>
 File: ../../headers/img/fond.png Graphic file (type png)
 
 <use ../../headers/img/fond.png>
-Package pdftex.def Info: ../../headers/img/fond.png used on input line 445.
+Package pdftex.def Info: ../../headers/img/fond.png used on input line 447.
 (pdftex.def)             Requested size: 364.19536pt x 272.7795pt.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 3.59998pt on input line 445.
+(Font)              scaled to size 3.59998pt on input line 447.
 
 Overfull \vbox (0.81969pt too high) has occurred while \output is active []
 
 File: ../../headers/img/logo.png Graphic file (type png)
 
 <use ../../headers/img/logo.png>
-Package pdftex.def Info: ../../headers/img/logo.png used on input line 445.
+Package pdftex.def Info: ../../headers/img/logo.png used on input line 447.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 ) (04-C01.tex
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 7.19995pt on input line 20.
 
-<../../headers/img/fond2.pdf, id=87, 2218.6889pt x 1658.99805pt>
+<../../headers/img/fond2.pdf, id=88, 2218.6889pt x 1658.99805pt>
 File: ../../headers/img/fond2.pdf Graphic file (type pdf)
 
 <use ../../headers/img/fond2.pdf>
@@ -1903,7 +1921,7 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 20.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 
-<img/vecteur.png, id=122, 500.62032pt x 356.83313pt>
+<img/vecteur.png, id=123, 500.62032pt x 356.83313pt>
 File: img/vecteur.png Graphic file (type png)
  <use img/vecteur.png>
 Package pdftex.def Info: img/vecteur.png used on input line 47.
@@ -1927,16 +1945,17 @@ Non-PDF special ignored!
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
- <../../headers/img/fond.png> <../../headers/img/logo.png> <../../headers/img/f
-ond2.pdf>] <img/repere1.png, id=214, 722.7pt x 354.57469pt>
+ <../../headers/img/fond.png> <./img/qrcode.png> <../../headers/img/logo.png> <
+../../headers/img/fond2.pdf>] <img/repere1.png, id=216, 722.7pt x 354.57469pt>
 File: img/repere1.png Graphic file (type png)
- <use img/repere1.png>
+
+<use img/repere1.png>
 Package pdftex.def Info: img/repere1.png used on input line 83.
 (pdftex.def)             Requested size: 99.58464pt x 48.8556pt.
-
-<img/repere2.png, id=215, 550.30594pt x 542.025pt>
+ <img/repere2.png, id=217, 550.30594pt x 542.025pt>
 File: img/repere2.png Graphic file (type png)
- <use img/repere2.png>
+
+<use img/repere2.png>
 Package pdftex.def Info: img/repere2.png used on input line 83.
 (pdftex.def)             Requested size: 56.9055pt x 56.04175pt.
 
@@ -1944,7 +1963,7 @@ Overfull \hbox (8.40857pt too wide) in paragraph at lines 83--83
 [][] 
  []
 
-<img/repere3.png, id=216, 660.21657pt x 530.73282pt>
+<img/repere3.png, id=218, 660.21657pt x 530.73282pt>
 File: img/repere3.png Graphic file (type png)
  <use img/repere3.png>
 Package pdftex.def Info: img/repere3.png used on input line 83.
@@ -1967,7 +1986,7 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 83.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 
-<img/vecteur2.png, id=251, 150.5625pt x 67.0003pt>
+<img/vecteur2.png, id=253, 150.5625pt x 67.0003pt>
 File: img/vecteur2.png Graphic file (type png)
  <use img/vecteur2.png>
 Package pdftex.def Info: img/vecteur2.png used on input line 103.
@@ -1991,7 +2010,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 103.
 
  <./img/vecteur.png> <./img/repere1.png> <./img/repere2.png> <./img/repere3.png
 >]
-<img/vecteur3.png, id=301, 137.7647pt x 158.09062pt>
+<img/vecteur3.png, id=303, 137.7647pt x 158.09062pt>
 File: img/vecteur3.png Graphic file (type png)
  <use img/vecteur3.png>
 Package pdftex.def Info: img/vecteur3.png used on input line 131.
@@ -2014,7 +2033,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 131.
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 156.
 
-<img/vecteur4.png, id=336, 458.46281pt x 110.66344pt>
+<img/vecteur4.png, id=338, 458.46281pt x 110.66344pt>
 File: img/vecteur4.png Graphic file (type png)
  <use img/vecteur4.png>
 Package pdftex.def Info: img/vecteur4.png used on input line 156.
@@ -2068,7 +2087,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 206.
 
 
  <./img/vecteur4.png>]
-<img/prodcroix.png, id=457, 129.48375pt x 135.50626pt>
+<img/prodcroix.png, id=459, 129.48375pt x 135.50626pt>
 File: img/prodcroix.png Graphic file (type png)
  <use img/prodcroix.png>
 Package pdftex.def Info: img/prodcroix.png used on input line 244.
@@ -2148,7 +2167,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 306.
 
 
 ]
-<img/vecteur5.png, id=607, 236.38312pt x 149.8097pt>
+<img/vecteur5.png, id=609, 236.38312pt x 149.8097pt>
 File: img/vecteur5.png Graphic file (type png)
  <use img/vecteur5.png>
 Package pdftex.def Info: img/vecteur5.png used on input line 337.
@@ -2245,7 +2264,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 6.29996pt on input line 463.
 
-<img/repere4.png, id=796, 117.43875pt x 372.64218pt>
+<img/repere4.png, id=798, 117.43875pt x 372.64218pt>
 File: img/repere4.png Graphic file (type png)
  <use img/repere4.png>
 Package pdftex.def Info: img/repere4.png used on input line 463.
@@ -2298,7 +2317,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 500.
 
 
  <./img/repere4.png>]
-<img/repere5.png, id=913, 259.7203pt x 213.04594pt>
+<img/repere5.png, id=915, 259.7203pt x 213.04594pt>
 File: img/repere5.png Graphic file (type png)
  <use img/repere5.png>
 Package pdftex.def Info: img/repere5.png used on input line 525.
@@ -2318,7 +2337,7 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 525.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 
-<img/villebrequin1.png, id=948, 442.7742pt x 259.2084pt>
+<img/villebrequin1.png, id=950, 442.7742pt x 259.2084pt>
 File: img/villebrequin1.png Graphic file (type png)
 
 <use img/villebrequin1.png>
@@ -2341,14 +2360,14 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 536.
 
 
  <./img/repere5.png>]
-<img/villebrequin2.png, id=991, 221.628pt x 225.9642pt>
+<img/villebrequin2.png, id=993, 221.628pt x 225.9642pt>
 File: img/villebrequin2.png Graphic file (type png)
 
 <use img/villebrequin2.png>
 Package pdftex.def Info: img/villebrequin2.png used on input line 558.
 (pdftex.def)             Requested size: 117.9987pt x 120.30867pt.
 
-<img/villebrequin3.png, id=992, 330.033pt x 148.3944pt>
+<img/villebrequin3.png, id=994, 330.033pt x 148.3944pt>
 File: img/villebrequin3.png Graphic file (type png)
 
 <use img/villebrequin3.png>
@@ -2387,37 +2406,37 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 14.
 
  <./img/villebrequin1.png> <./img/villebrequin2.png> <./img/villebrequin3.png>]
 
-<img/11.png, id=1069, 150.5625pt x 112.92188pt>
+<img/11.png, id=1071, 150.5625pt x 112.92188pt>
 File: img/11.png Graphic file (type png)
  <use img/11.png>
 Package pdftex.def Info: img/11.png used on input line 42.
 (pdftex.def)             Requested size: 30.73085pt x 23.04747pt.
 
-<img/12.png, id=1070, 150.5625pt x 112.92188pt>
+<img/12.png, id=1072, 150.5625pt x 112.92188pt>
 File: img/12.png Graphic file (type png)
  <use img/12.png>
 Package pdftex.def Info: img/12.png used on input line 42.
 (pdftex.def)             Requested size: 30.73085pt x 23.04747pt.
 
-<img/13.png, id=1071, 150.5625pt x 112.92188pt>
+<img/13.png, id=1073, 150.5625pt x 112.92188pt>
 File: img/13.png Graphic file (type png)
  <use img/13.png>
 Package pdftex.def Info: img/13.png used on input line 42.
 (pdftex.def)             Requested size: 30.73085pt x 23.04747pt.
 
-<img/21.png, id=1072, 150.5625pt x 112.92188pt>
+<img/21.png, id=1074, 150.5625pt x 112.92188pt>
 File: img/21.png Graphic file (type png)
  <use img/21.png>
 Package pdftex.def Info: img/21.png used on input line 42.
 (pdftex.def)             Requested size: 30.73085pt x 23.04747pt.
 
-<img/22.png, id=1073, 150.5625pt x 112.92188pt>
+<img/22.png, id=1075, 150.5625pt x 112.92188pt>
 File: img/22.png Graphic file (type png)
  <use img/22.png>
 Package pdftex.def Info: img/22.png used on input line 42.
 (pdftex.def)             Requested size: 30.73085pt x 23.04747pt.
 
-<img/31.png, id=1074, 150.5625pt x 112.92188pt>
+<img/31.png, id=1076, 150.5625pt x 112.92188pt>
 File: img/31.png Graphic file (type png)
  <use img/31.png>
 Package pdftex.def Info: img/31.png used on input line 42.
@@ -2437,31 +2456,31 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 42.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 
-<img/221.png, id=1109, 150.5625pt x 112.92188pt>
+<img/221.png, id=1111, 150.5625pt x 112.92188pt>
 File: img/221.png Graphic file (type png)
  <use img/221.png>
 Package pdftex.def Info: img/221.png used on input line 81.
 (pdftex.def)             Requested size: 30.73085pt x 23.04747pt.
 
-<img/212.png, id=1110, 150.5625pt x 112.92188pt>
+<img/212.png, id=1112, 150.5625pt x 112.92188pt>
 File: img/212.png Graphic file (type png)
  <use img/212.png>
 Package pdftex.def Info: img/212.png used on input line 81.
 (pdftex.def)             Requested size: 30.73085pt x 23.04747pt.
 
-<img/211.png, id=1111, 150.5625pt x 112.92188pt>
+<img/211.png, id=1113, 150.5625pt x 112.92188pt>
 File: img/211.png Graphic file (type png)
  <use img/211.png>
 Package pdftex.def Info: img/211.png used on input line 81.
 (pdftex.def)             Requested size: 30.73085pt x 23.04747pt.
 
-<img/222.png, id=1112, 150.5625pt x 112.92188pt>
+<img/222.png, id=1114, 150.5625pt x 112.92188pt>
 File: img/222.png Graphic file (type png)
  <use img/222.png>
 Package pdftex.def Info: img/222.png used on input line 81.
 (pdftex.def)             Requested size: 30.73085pt x 23.04747pt.
 
-<img/03.png, id=1113, 150.5625pt x 112.92188pt>
+<img/03.png, id=1115, 150.5625pt x 112.92188pt>
 File: img/03.png Graphic file (type png)
  <use img/03.png>
 Package pdftex.def Info: img/03.png used on input line 81.
@@ -2517,25 +2536,25 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 139.
 
  <./img/221.png> <./img/212.png> <./img/211.png> <./img/222.png> <./img/03.png>
 ]
-<img/pivot_des.png, id=1243, 387.4475pt x 395.4775pt>
+<img/pivot_des.png, id=1245, 387.4475pt x 395.4775pt>
 File: img/pivot_des.png Graphic file (type png)
  <use img/pivot_des.png>
 Package pdftex.def Info: img/pivot_des.png used on input line 161.
 (pdftex.def)             Requested size: 107.55333pt x 109.7795pt.
 
-<img/pivot1.png, id=1244, 150.5625pt x 105.39375pt>
+<img/pivot1.png, id=1246, 150.5625pt x 105.39375pt>
 File: img/pivot1.png Graphic file (type png)
  <use img/pivot1.png>
 Package pdftex.def Info: img/pivot1.png used on input line 161.
 (pdftex.def)             Requested size: 40.0pt x 27.99995pt.
 
-<img/pivot2.png, id=1245, 150.5625pt x 105.39375pt>
+<img/pivot2.png, id=1247, 150.5625pt x 105.39375pt>
 File: img/pivot2.png Graphic file (type png)
  <use img/pivot2.png>
 Package pdftex.def Info: img/pivot2.png used on input line 161.
 (pdftex.def)             Requested size: 40.0pt x 27.99995pt.
 
-<img/pivot3.png, id=1246, 100.375pt x 100.375pt>
+<img/pivot3.png, id=1248, 100.375pt x 100.375pt>
 File: img/pivot3.png Graphic file (type png)
  <use img/pivot3.png>
 Package pdftex.def Info: img/pivot3.png used on input line 161.
@@ -2559,25 +2578,25 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 161.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 
-<img/gliss_des.png, id=1281, 426.59375pt x 324.21124pt>
+<img/gliss_des.png, id=1283, 426.59375pt x 324.21124pt>
 File: img/gliss_des.png Graphic file (type png)
 
 <use img/gliss_des.png>
 Package pdftex.def Info: img/gliss_des.png used on input line 182.
 (pdftex.def)             Requested size: 107.55333pt x 81.74025pt.
- <img/gliss1.png, id=1282, 150.5625pt x 105.39375pt>
+ <img/gliss1.png, id=1284, 150.5625pt x 105.39375pt>
 File: img/gliss1.png Graphic file (type png)
 
 <use img/gliss1.png>
 Package pdftex.def Info: img/gliss1.png used on input line 182.
 (pdftex.def)             Requested size: 40.0pt x 27.99995pt.
- <img/gliss2.png, id=1283, 150.5625pt x 105.39375pt>
+ <img/gliss2.png, id=1285, 150.5625pt x 105.39375pt>
 File: img/gliss2.png Graphic file (type png)
 
 <use img/gliss2.png>
 Package pdftex.def Info: img/gliss2.png used on input line 182.
 (pdftex.def)             Requested size: 40.0pt x 27.99995pt.
- <img/gliss3.png, id=1284, 75.28125pt x 75.28125pt>
+ <img/gliss3.png, id=1286, 75.28125pt x 75.28125pt>
 File: img/gliss3.png Graphic file (type png)
 
 <use img/gliss3.png>
@@ -2606,25 +2625,25 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 182.
 
  <./img/pivot_des.png> <./img/pivot1.png> <./img/pivot2.png> <./img/pivot3.png>
 ]
-<img/heli_des.png, id=1329, 184.43906pt x 232.61906pt>
+<img/heli_des.png, id=1331, 184.43906pt x 232.61906pt>
 File: img/heli_des.png Graphic file (type png)
  <use img/heli_des.png>
 Package pdftex.def Info: img/heli_des.png used on input line 204.
 (pdftex.def)             Requested size: 86.04298pt x 108.51813pt.
 
-<img/heli1.png, id=1330, 150.5625pt x 105.39375pt>
+<img/heli1.png, id=1332, 150.5625pt x 105.39375pt>
 File: img/heli1.png Graphic file (type png)
  <use img/heli1.png>
 Package pdftex.def Info: img/heli1.png used on input line 204.
 (pdftex.def)             Requested size: 40.0pt x 27.99995pt.
 
-<img/heli2.png, id=1331, 150.5625pt x 105.39375pt>
+<img/heli2.png, id=1333, 150.5625pt x 105.39375pt>
 File: img/heli2.png Graphic file (type png)
  <use img/heli2.png>
 Package pdftex.def Info: img/heli2.png used on input line 204.
 (pdftex.def)             Requested size: 40.0pt x 27.99995pt.
 
-<img/heli3.png, id=1332, 100.375pt x 100.375pt>
+<img/heli3.png, id=1334, 100.375pt x 100.375pt>
 File: img/heli3.png Graphic file (type png)
  <use img/heli3.png>
 Package pdftex.def Info: img/heli3.png used on input line 204.
@@ -2648,26 +2667,26 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 204.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 
-<img/pivgliss_des.png, id=1367, 447.6725pt x 207.77625pt>
+<img/pivgliss_des.png, id=1369, 447.6725pt x 207.77625pt>
 File: img/pivgliss_des.png Graphic file (type png)
 
 <use img/pivgliss_des.png>
 Package pdftex.def Info: img/pivgliss_des.png used on input line 225.
 (pdftex.def)             Requested size: 86.04298pt x 39.93443pt.
 
-<img/pivgliss1.png, id=1368, 150.5625pt x 105.39375pt>
+<img/pivgliss1.png, id=1370, 150.5625pt x 105.39375pt>
 File: img/pivgliss1.png Graphic file (type png)
  <use img/pivgliss1.png>
 Package pdftex.def Info: img/pivgliss1.png used on input line 225.
 (pdftex.def)             Requested size: 40.0pt x 27.99995pt.
 
-<img/pivgliss2.png, id=1369, 150.5625pt x 105.39375pt>
+<img/pivgliss2.png, id=1371, 150.5625pt x 105.39375pt>
 File: img/pivgliss2.png Graphic file (type png)
  <use img/pivgliss2.png>
 Package pdftex.def Info: img/pivgliss2.png used on input line 225.
 (pdftex.def)             Requested size: 40.0pt x 27.99995pt.
 
-<img/pivgliss3.png, id=1370, 100.375pt x 100.375pt>
+<img/pivgliss3.png, id=1372, 100.375pt x 100.375pt>
 File: img/pivgliss3.png Graphic file (type png)
  <use img/pivgliss3.png>
 Package pdftex.def Info: img/pivgliss3.png used on input line 225.
@@ -2695,13 +2714,13 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 225.
 
  <./img/gliss_des.png> <./img/gliss1.png> <./img/gliss2.png> <./img/gliss3.png>
  <./img/heli_des.png> <./img/heli1.png> <./img/heli2.png> <./img/heli3.png>]
-<img/rot_des.png, id=1420, 264.99pt x 294.09875pt>
+<img/rot_des.png, id=1422, 264.99pt x 294.09875pt>
 File: img/rot_des.png Graphic file (type png)
  <use img/rot_des.png>
 Package pdftex.def Info: img/rot_des.png used on input line 246.
 (pdftex.def)             Requested size: 86.04298pt x 95.49568pt.
 
-<img/rot1.png, id=1421, 150.5625pt x 105.39375pt>
+<img/rot1.png, id=1423, 150.5625pt x 105.39375pt>
 File: img/rot1.png Graphic file (type png)
  <use img/rot1.png>
 Package pdftex.def Info: img/rot1.png used on input line 246.
@@ -2725,13 +2744,13 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 246.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 
-<img/sphdoi_des.png, id=1456, 364.36125pt x 259.97125pt>
+<img/sphdoi_des.png, id=1458, 364.36125pt x 259.97125pt>
 File: img/sphdoi_des.png Graphic file (type png)
 
 <use img/sphdoi_des.png>
 Package pdftex.def Info: img/sphdoi_des.png used on input line 266.
 (pdftex.def)             Requested size: 86.04298pt x 61.39076pt.
- <img/sphdoi1.png, id=1457, 150.5625pt x 105.39375pt>
+ <img/sphdoi1.png, id=1459, 150.5625pt x 105.39375pt>
 File: img/sphdoi1.png Graphic file (type png)
 
 <use img/sphdoi1.png>
@@ -2759,26 +2778,26 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 266.
 
 
  <./img/pivgliss_des.png> <./img/pivgliss1.png> <./img/pivgliss2.png> <./img/pi
-vgliss3.png> <./img/rot_des.png> <./img/rot1.png>] <img/plan_des.png, id=1503, 
+vgliss3.png> <./img/rot_des.png> <./img/rot1.png>] <img/plan_des.png, id=1505, 
 417.56pt x 216.81pt>
 File: img/plan_des.png Graphic file (type png)
 
 <use img/plan_des.png>
 Package pdftex.def Info: img/plan_des.png used on input line 287.
 (pdftex.def)             Requested size: 107.55333pt x 55.84325pt.
- <img/plan1.png, id=1504, 150.5625pt x 105.39375pt>
+ <img/plan1.png, id=1506, 150.5625pt x 105.39375pt>
 File: img/plan1.png Graphic file (type png)
 
 <use img/plan1.png>
 Package pdftex.def Info: img/plan1.png used on input line 287.
 (pdftex.def)             Requested size: 40.0pt x 27.99995pt.
- <img/plan2.png, id=1505, 150.5625pt x 105.39375pt>
+ <img/plan2.png, id=1507, 150.5625pt x 105.39375pt>
 File: img/plan2.png Graphic file (type png)
 
 <use img/plan2.png>
 Package pdftex.def Info: img/plan2.png used on input line 287.
 (pdftex.def)             Requested size: 40.0pt x 27.99995pt.
- <img/plan3.png, id=1506, 100.375pt x 100.375pt>
+ <img/plan3.png, id=1508, 100.375pt x 100.375pt>
 File: img/plan3.png Graphic file (type png)
 
 <use img/plan3.png>
@@ -2803,25 +2822,25 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 287.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 
-<img/linan_des.png, id=1541, 416.55624pt x 197.73875pt>
+<img/linan_des.png, id=1543, 416.55624pt x 197.73875pt>
 File: img/linan_des.png Graphic file (type png)
 
 <use img/linan_des.png>
 Package pdftex.def Info: img/linan_des.png used on input line 308.
 (pdftex.def)             Requested size: 107.55333pt x 51.05482pt.
- <img/linan1.png, id=1542, 150.5625pt x 105.39375pt>
+ <img/linan1.png, id=1544, 150.5625pt x 105.39375pt>
 File: img/linan1.png Graphic file (type png)
 
 <use img/linan1.png>
 Package pdftex.def Info: img/linan1.png used on input line 308.
 (pdftex.def)             Requested size: 40.0pt x 27.99995pt.
- <img/linan2.png, id=1543, 150.5625pt x 105.39375pt>
+ <img/linan2.png, id=1545, 150.5625pt x 105.39375pt>
 File: img/linan2.png Graphic file (type png)
 
 <use img/linan2.png>
 Package pdftex.def Info: img/linan2.png used on input line 308.
 (pdftex.def)             Requested size: 40.0pt x 27.99995pt.
- <img/linan3.png, id=1544, 100.375pt x 100.375pt>
+ <img/linan3.png, id=1546, 100.375pt x 100.375pt>
 File: img/linan3.png Graphic file (type png)
 
 <use img/linan3.png>
@@ -2850,25 +2869,25 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 308.
 
  <./img/sphdoi_des.png> <./img/sphdoi1.png> <./img/plan_des.png> <./img/plan1.p
 ng> <./img/plan2.png> <./img/plan3.png>]
-<img/linrec_des.png, id=1590, 147.55125pt x 170.13562pt>
+<img/linrec_des.png, id=1592, 147.55125pt x 170.13562pt>
 File: img/linrec_des.png Graphic file (type png)
 
 <use img/linrec_des.png>
 Package pdftex.def Info: img/linrec_des.png used on input line 329.
 (pdftex.def)             Requested size: 75.28699pt x 86.81213pt.
- <img/linrec1.png, id=1591, 150.5625pt x 105.39375pt>
+ <img/linrec1.png, id=1593, 150.5625pt x 105.39375pt>
 File: img/linrec1.png Graphic file (type png)
 
 <use img/linrec1.png>
 Package pdftex.def Info: img/linrec1.png used on input line 329.
 (pdftex.def)             Requested size: 40.0pt x 27.99995pt.
- <img/linrec2.png, id=1592, 150.5625pt x 105.39375pt>
+ <img/linrec2.png, id=1594, 150.5625pt x 105.39375pt>
 File: img/linrec2.png Graphic file (type png)
 
 <use img/linrec2.png>
 Package pdftex.def Info: img/linrec2.png used on input line 329.
 (pdftex.def)             Requested size: 40.0pt x 27.99995pt.
- <img/linrec3.png, id=1593, 100.375pt x 100.375pt>
+ <img/linrec3.png, id=1595, 100.375pt x 100.375pt>
 File: img/linrec3.png Graphic file (type png)
 
 <use img/linrec3.png>
@@ -2893,25 +2912,25 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 329.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 
-<img/pon_des.png, id=1628, 311.1625pt x 315.1775pt>
+<img/pon_des.png, id=1630, 311.1625pt x 315.1775pt>
 File: img/pon_des.png Graphic file (type png)
  <use img/pon_des.png>
 Package pdftex.def Info: img/pon_des.png used on input line 350.
 (pdftex.def)             Requested size: 96.79733pt x 98.04546pt.
 
-<img/pon1.png, id=1629, 150.5625pt x 105.39375pt>
+<img/pon1.png, id=1631, 150.5625pt x 105.39375pt>
 File: img/pon1.png Graphic file (type png)
  <use img/pon1.png>
 Package pdftex.def Info: img/pon1.png used on input line 350.
 (pdftex.def)             Requested size: 40.0pt x 27.99995pt.
 
-<img/pon2.png, id=1630, 150.5625pt x 105.39375pt>
+<img/pon2.png, id=1632, 150.5625pt x 105.39375pt>
 File: img/pon2.png Graphic file (type png)
  <use img/pon2.png>
 Package pdftex.def Info: img/pon2.png used on input line 350.
 (pdftex.def)             Requested size: 40.0pt x 27.99995pt.
 
-<img/pon3.png, id=1631, 100.375pt x 98.3675pt>
+<img/pon3.png, id=1633, 100.375pt x 98.3675pt>
 File: img/pon3.png Graphic file (type png)
  <use img/pon3.png>
 Package pdftex.def Info: img/pon3.png used on input line 350.
@@ -2940,13 +2959,13 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 350.
  <./img/linan_des.png> <./img/linan1.png> <./img/linan2.png> <./img/linan3.png>
  <./img/linrec_des.png> <./img/linrec1.png> <./img/linrec2.png> <./img/linrec3.
 png>]
-<img/enc_des.png, id=1681, 279.0425pt x 255.95625pt>
+<img/enc_des.png, id=1683, 279.0425pt x 255.95625pt>
 File: img/enc_des.png Graphic file (type png)
  <use img/enc_des.png>
 Package pdftex.def Info: img/enc_des.png used on input line 371.
 (pdftex.def)             Requested size: 86.04298pt x 78.92381pt.
 
-<img/enc1.png, id=1682, 121.20282pt x 76.03406pt>
+<img/enc1.png, id=1684, 121.20282pt x 76.03406pt>
 File: img/enc1.png Graphic file (type png)
  <use img/enc1.png>
 Package pdftex.def Info: img/enc1.png used on input line 371.
@@ -3186,7 +3205,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 644.
 
 
 ]
-<img/meule1.png, id=2209, 663.98062pt x 329.73187pt>
+<img/meule1.png, id=2211, 663.98062pt x 329.73187pt>
 File: img/meule1.png Graphic file (type png)
  <use img/meule1.png>
 Package pdftex.def Info: img/meule1.png used on input line 658.
@@ -3206,7 +3225,7 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 658.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 
-<img/tableau.png, id=2244, 732.48656pt x 481.04718pt>
+<img/tableau.png, id=2246, 732.48656pt x 481.04718pt>
 File: img/tableau.png Graphic file (type png)
  <use img/tableau.png>
 Package pdftex.def Info: img/tableau.png used on input line 668.
@@ -3229,7 +3248,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 668.
 
 
  <./img/meule1.png>]
-<img/tableau2.png, id=2288, 794.2172pt x 453.19313pt>
+<img/tableau2.png, id=2290, 794.2172pt x 453.19313pt>
 File: img/tableau2.png Graphic file (type png)
  <use img/tableau2.png>
 Package pdftex.def Info: img/tableau2.png used on input line 678.
@@ -3249,7 +3268,7 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 678.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 
-<img/meule2.png, id=2323, 752.0597pt x 329.73187pt>
+<img/meule2.png, id=2325, 752.0597pt x 329.73187pt>
 File: img/meule2.png Graphic file (type png)
  <use img/meule2.png>
 Package pdftex.def Info: img/meule2.png used on input line 691.
@@ -3272,7 +3291,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 691.
 
 
  <./img/tableau.png> <./img/tableau2.png>]
-<img/meule3.png, id=2365, 617.30624pt x 316.93407pt>
+<img/meule3.png, id=2367, 617.30624pt x 316.93407pt>
 File: img/meule3.png Graphic file (type png)
  <use img/meule3.png>
 Package pdftex.def Info: img/meule3.png used on input line 703.
@@ -3292,7 +3311,7 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 703.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 
-<img/meule4.png, id=2400, 1062.97125pt x 544.28343pt>
+<img/meule4.png, id=2402, 1062.97125pt x 544.28343pt>
 File: img/meule4.png Graphic file (type png)
  <use img/meule4.png>
 Package pdftex.def Info: img/meule4.png used on input line 711.
@@ -3315,13 +3334,13 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 711.
 
 
  <./img/meule2.png> <./img/meule3.png>]
-<img/pompe2.png, id=2444, 397.485pt x 480.29437pt>
+<img/pompe2.png, id=2446, 397.485pt x 480.29437pt>
 File: img/pompe2.png Graphic file (type png)
  <use img/pompe2.png>
 Package pdftex.def Info: img/pompe2.png used on input line 723.
 (pdftex.def)             Requested size: 147.49782pt x 178.22646pt.
 
-<img/pompe2_1.png, id=2445, 545.78906pt x 269.50688pt>
+<img/pompe2_1.png, id=2447, 545.78906pt x 269.50688pt>
 File: img/pompe2_1.png Graphic file (type png)
  <use img/pompe2_1.png>
 Package pdftex.def Info: img/pompe2_1.png used on input line 723.
@@ -3341,13 +3360,13 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 723.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 
-<img/pompe4.png, id=2480, 394.47375pt x 352.31625pt>
+<img/pompe4.png, id=2482, 394.47375pt x 352.31625pt>
 File: img/pompe4.png Graphic file (type png)
  <use img/pompe4.png>
 Package pdftex.def Info: img/pompe4.png used on input line 735.
 (pdftex.def)             Requested size: 117.9987pt x 105.38388pt.
 
-<img/pompe4_1.png, id=2481, 428.35031pt x 210.7875pt>
+<img/pompe4_1.png, id=2483, 428.35031pt x 210.7875pt>
 File: img/pompe4_1.png Graphic file (type png)
  <use img/pompe4_1.png>
 Package pdftex.def Info: img/pompe4_1.png used on input line 735.
@@ -3370,13 +3389,13 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 735.
 
 
  <./img/meule4.png> <./img/pompe2.png> <./img/pompe2_1.png>] <img/pompe6.png, i
-d=2525, 388.45125pt x 353.06906pt>
+d=2527, 388.45125pt x 353.06906pt>
 File: img/pompe6.png Graphic file (type png)
 
 <use img/pompe6.png>
 Package pdftex.def Info: img/pompe6.png used on input line 747.
 (pdftex.def)             Requested size: 117.9987pt x 107.24683pt.
- <img/pompe6_1.png, id=2526, 414.04688pt x 227.34938pt>
+ <img/pompe6_1.png, id=2528, 414.04688pt x 227.34938pt>
 File: img/pompe6_1.png Graphic file (type png)
 
 <use img/pompe6_1.png>
@@ -3396,7 +3415,7 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 747.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 ) (05-C01.tex
-<img/table.jpg, id=2561, 621.07031pt x 350.81062pt>
+<img/table.jpg, id=2563, 621.07031pt x 350.81062pt>
 File: img/table.jpg Graphic file (type jpg)
  <use img/table.jpg>
 Package pdftex.def Info: img/table.jpg used on input line 23.
@@ -3454,7 +3473,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 63.
 
 
  <./img/table.jpg>]
-<img/graphe.png, id=2681, 997.47656pt x 420.82219pt>
+<img/graphe.png, id=2683, 997.47656pt x 420.82219pt>
 File: img/graphe.png Graphic file (type png)
  <use img/graphe.png>
 Package pdftex.def Info: img/graphe.png used on input line 75.
@@ -3474,13 +3493,13 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 75.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 
-<img/graphe1.png, id=2716, 119.44624pt x 156.585pt>
+<img/graphe1.png, id=2718, 119.44624pt x 156.585pt>
 File: img/graphe1.png Graphic file (type png)
  <use img/graphe1.png>
 Package pdftex.def Info: img/graphe1.png used on input line 94.
 (pdftex.def)             Requested size: 88.49959pt x 116.01682pt.
 
-<img/graphe1_1.png, id=2717, 333.49594pt x 258.21469pt>
+<img/graphe1_1.png, id=2719, 333.49594pt x 258.21469pt>
 File: img/graphe1_1.png Graphic file (type png)
 
 <use img/graphe1_1.png>
@@ -3503,13 +3522,13 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 94.
 
 
  <./img/graphe.png>]
-<img/graphe2.png, id=2760, 204.765pt x 174.6525pt>
+<img/graphe2.png, id=2762, 204.765pt x 174.6525pt>
 File: img/graphe2.png Graphic file (type png)
  <use img/graphe2.png>
 Package pdftex.def Info: img/graphe2.png used on input line 112.
 (pdftex.def)             Requested size: 117.9987pt x 100.64825pt.
 
-<img/graphe2_1.png, id=2761, 470.50781pt x 350.81062pt>
+<img/graphe2_1.png, id=2763, 470.50781pt x 350.81062pt>
 File: img/graphe2_1.png Graphic file (type png)
 
 <use img/graphe2_1.png>
@@ -3529,13 +3548,13 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 112.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 
-<img/graphe3.png, id=2796, 247.92625pt x 194.7275pt>
+<img/graphe3.png, id=2798, 247.92625pt x 194.7275pt>
 File: img/graphe3.png Graphic file (type png)
  <use img/graphe3.png>
 Package pdftex.def Info: img/graphe3.png used on input line 130.
 (pdftex.def)             Requested size: 117.9987pt x 92.67776pt.
 
-<img/graphe3_1.png, id=2797, 538.26094pt x 266.49562pt>
+<img/graphe3_1.png, id=2799, 538.26094pt x 266.49562pt>
 File: img/graphe3_1.png Graphic file (type png)
 
 <use img/graphe3_1.png>
@@ -3577,13 +3596,13 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 147.
 LaTeX Warning: Command \' invalid in math mode on input line 171.
 
 Missing character: There is no é in font phvr7t!
-<img/Image1.png, id=2877, 143.5764pt x 80.9424pt>
+<img/Image1.png, id=2879, 143.5764pt x 80.9424pt>
 File: img/Image1.png Graphic file (type png)
  <use img/Image1.png>
 Package pdftex.def Info: img/Image1.png used on input line 171.
 (pdftex.def)             Requested size: 70.06369pt x 39.50032pt.
 
-<img/Image2.png, id=2878, 143.5764pt x 33.726pt>
+<img/Image2.png, id=2880, 143.5764pt x 33.726pt>
 File: img/Image2.png Graphic file (type png)
  <use img/Image2.png>
 Package pdftex.def Info: img/Image2.png used on input line 171.
@@ -3620,7 +3639,7 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 209.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 
-<img/Image3.png, id=2955, 192.2382pt x 102.6234pt>
+<img/Image3.png, id=2957, 192.2382pt x 102.6234pt>
 File: img/Image3.png Graphic file (type png)
  <use img/Image3.png>
 Package pdftex.def Info: img/Image3.png used on input line 227.
@@ -3658,7 +3677,7 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 248.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 
-<img/Image4.png, id=3033, 124.3044pt x 88.6512pt>
+<img/Image4.png, id=3035, 124.3044pt x 88.6512pt>
 File: img/Image4.png Graphic file (type png)
  <use img/Image4.png>
 Package pdftex.def Info: img/Image4.png used on input line 266.
@@ -3681,7 +3700,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 266.
 
 
  <./img/Image3.png>]
-<img/Image5.png, id=3076, 553.5882pt x 44.8074pt>
+<img/Image5.png, id=3078, 553.5882pt x 44.8074pt>
 File: img/Image5.png Graphic file (type png)
  <use img/Image5.png>
 Package pdftex.def Info: img/Image5.png used on input line 279.
@@ -3737,7 +3756,7 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 333.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 
-<img/Image6.png, id=3188, 130.5678pt x 115.1502pt>
+<img/Image6.png, id=3190, 130.5678pt x 115.1502pt>
 File: img/Image6.png Graphic file (type png)
  <use img/Image6.png>
 Package pdftex.def Info: img/Image6.png used on input line 351.
@@ -3863,7 +3882,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 165.
 
 
 ]
-<img/img1.png, id=3456, 264.5082pt x 117.0774pt>
+<img/img1.png, id=3458, 264.5082pt x 117.0774pt>
 File: img/img1.png Graphic file (type png)
  <use img/img1.png>
 Package pdftex.def Info: img/img1.png used on input line 191.
@@ -3917,7 +3936,7 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 232.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 
-<img/img2.png, id=3568, 222.8325pt x 249.93375pt>
+<img/img2.png, id=3570, 222.8325pt x 249.93375pt>
 File: img/img2.png Graphic file (type png)
  <use img/img2.png>
 Package pdftex.def Info: img/img2.png used on input line 260.
@@ -3940,7 +3959,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 260.
 
 
 ]
-<img/img3.png, id=3610, 320.69812pt x 310.15875pt>
+<img/img3.png, id=3612, 320.69812pt x 310.15875pt>
 File: img/img3.png Graphic file (type png)
  <use img/img3.png>
 Package pdftex.def Info: img/img3.png used on input line 292.
@@ -3960,7 +3979,7 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 292.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 ) (08-C01.tex
-<img/Diapositive1.png, id=3645, 356.0803pt x 222.8325pt>
+<img/Diapositive1.png, id=3647, 356.0803pt x 222.8325pt>
 File: img/Diapositive1.png Graphic file (type png)
 
 <use img/Diapositive1.png>
@@ -3983,14 +4002,14 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 24.
 
 
  <./img/img2.png> <./img/img3.png>]
-<img/Diapositive2.png, id=3687, 284.56313pt x 212.29312pt>
+<img/Diapositive2.png, id=3689, 284.56313pt x 212.29312pt>
 File: img/Diapositive2.png Graphic file (type png)
 
 <use img/Diapositive2.png>
 Package pdftex.def Info: img/Diapositive2.png used on input line 62.
 (pdftex.def)             Requested size: 83.58224pt x 62.35382pt.
 
-<img/Diapositive3.png, id=3688, 395.97937pt x 137.01187pt>
+<img/Diapositive3.png, id=3690, 395.97937pt x 137.01187pt>
 File: img/Diapositive3.png Graphic file (type png)
 
 <use img/Diapositive3.png>
@@ -4010,7 +4029,7 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 62.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 
-<img/Diapositive4.png, id=3723, 265.74281pt x 271.0125pt>
+<img/Diapositive4.png, id=3725, 265.74281pt x 271.0125pt>
 File: img/Diapositive4.png Graphic file (type png)
 
 <use img/Diapositive4.png>
@@ -4033,7 +4052,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 87.
 
 
  <./img/Diapositive1.png> <./img/Diapositive2.png> <./img/Diapositive3.png>]
-<img/Diapositive5.png, id=3769, 278.54062pt x 286.82156pt>
+<img/Diapositive5.png, id=3771, 278.54062pt x 286.82156pt>
 File: img/Diapositive5.png Graphic file (type png)
 
 <use img/Diapositive5.png>
@@ -4090,14 +4109,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 183--183
 
  []
 
-<img/Diapositive6.png, id=3881, 268.00125pt x 240.14719pt>
+<img/Diapositive6.png, id=3883, 268.00125pt x 240.14719pt>
 File: img/Diapositive6.png Graphic file (type png)
 
 <use img/Diapositive6.png>
 Package pdftex.def Info: img/Diapositive6.png used on input line 183.
 (pdftex.def)             Requested size: 76.82246pt x 68.83473pt.
 
-<img/Diapositive7.png, id=3882, 277.78781pt x 246.1697pt>
+<img/Diapositive7.png, id=3884, 277.78781pt x 246.1697pt>
 File: img/Diapositive7.png Graphic file (type png)
 
 <use img/Diapositive7.png>
@@ -4120,7 +4139,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 183.
 
 
 ]
-<img/Diapositive9.png, id=3925, 151.3153pt x 409.53pt>
+<img/Diapositive9.png, id=3927, 151.3153pt x 409.53pt>
 File: img/Diapositive9.png Graphic file (type png)
 
 <use img/Diapositive9.png>
@@ -4140,7 +4159,7 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 211.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 ) (08-C02.tex
-<img/surface_frottement.png, id=3960, 344.14285pt x 298.25714pt>
+<img/surface_frottement.png, id=3962, 344.14285pt x 298.25714pt>
 File: img/surface_frottement.png Graphic file (type png)
 
 <use img/surface_frottement.png>
@@ -4163,7 +4182,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 13.
 
 
  <./img/Diapositive6.png> <./img/Diapositive7.png> <./img/Diapositive9.png>]
-<img/Diapositive10.png, id=4004, 395.22656pt x 185.19188pt>
+<img/Diapositive10.png, id=4006, 395.22656pt x 185.19188pt>
 File: img/Diapositive10.png Graphic file (type png)
 
 <use img/Diapositive10.png>
@@ -4183,7 +4202,7 @@ File: ../../headers/img/logo.png Graphic file (type png)
 Package pdftex.def Info: ../../headers/img/logo.png used on input line 36.
 (pdftex.def)             Requested size: 55.15678pt x 14.22636pt.
 
-<img/Diapositive11.png, id=4039, 349.305pt x 169.38281pt>
+<img/Diapositive11.png, id=4041, 349.305pt x 169.38281pt>
 File: img/Diapositive11.png Graphic file (type png)
 
 <use img/Diapositive11.png>
@@ -4206,7 +4225,7 @@ Package pdftex.def Info: ../../headers/img/logo.png used on input line 55.
 
 
  <./img/surface_frottement.png> <./img/Diapositive10.png>] <img/Diapositive12.p
-ng, id=4083, 330.48468pt x 224.33812pt>
+ng, id=4085, 330.48468pt x 224.33812pt>
 File: img/Diapositive12.png Graphic file (type png)
 
 <use img/Diapositive12.png>
@@ -4264,11 +4283,11 @@ Package rerunfilecheck Info: File `C01_prive.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 11.
  ) 
 Here is how much of TeX's memory you used:
- 37927 strings out of 493334
- 789028 string characters out of 3139252
- 1129220 words of memory out of 3000000
- 40213 multiletter control sequences out of 15000+200000
- 104712 words of font info for 146 fonts, out of 3000000 for 9000
+ 38013 strings out of 493334
+ 789889 string characters out of 3139253
+ 1130346 words of memory out of 3000000
+ 40293 multiletter control sequences out of 15000+200000
+ 104818 words of font info for 147 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,32n,102p,3297b,754s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
@@ -4282,9 +4301,9 @@ mdpgd/md-utrma.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a
 am Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/urw/symbol/usyr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /urw/times/utmr8a.pfb>
-Output written on C01_prive.pdf (52 pages, 5114524 bytes).
+Output written on C01_prive.pdf (52 pages, 5167749 bytes).
 PDF statistics:
- 4251 PDF objects out of 4296 (max. 8388607)
+ 4253 PDF objects out of 4296 (max. 8388607)
  221 named destinations out of 1000 (max. 500000)
- 696 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 701 words of extra memory for PDF output out of 10000 (max. 10000000)
 
