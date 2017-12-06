@@ -1,7 +1,0 @@
-\beamer@endinputifotherversion {3.36pt}
-\select@language {french}
-\beamer@sectionintoc {1}{R\'esistance des mat\'eriaux}{2}{0}{1}
-\beamer@sectionintoc {2}{Dynamique}{15}{0}{2}
-\beamer@sectionintoc {3}{Torseur cin\'etique}{18}{0}{3}
-\beamer@sectionintoc {4}{Torseur dynamique}{26}{0}{4}
-\beamer@sectionintoc {5}{Application au ferroviaire}{30}{0}{5}
