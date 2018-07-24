@@ -14,6 +14,21 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+# Fichiers Latex
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+Ressources
+ressources
+*_prive.py
+qrcode.svg
+qrcode.png
+Notes.txt
+
 # Windows shortcuts
 *.lnk
 
